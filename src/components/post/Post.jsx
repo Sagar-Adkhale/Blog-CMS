@@ -1,38 +1,26 @@
-import { Link } from "react-router-dom";
 import "./post.css";
+import { Link } from "react-router-dom";
 
-export default function Post({img}) {
+export default function Post({ post }) {
+  const PF = "http://localhost:5000/images/";
   return (
     <div className="post">
-      <img
-        className="postImg"
-        src={img}
-        alt=""
-      />
+      {post.photo && <img className="postImg" src={PF + post.photo} alt="" />}
       <div className="postInfo">
         <div className="postCats">
-          <span className="postCat">
-            <Link className="link" to="/posts?cat=Music">
-              Adventure
-            </Link>
-          </span>
-          <span className="postCat">
-            <Link className="link" to="/posts?cat=Music">
-              Nature
-            </Link>
-          </span>
+          {post.categories.map((c) => (
+            <span className="postCat">{c.name}</span>
+          ))}
         </div>
-        <span className="postTitle">
-          <Link to="/post/abc" className="link">
-            The Great Raigad Trip
-          </Link>
-        </span>
+        <Link to={`/post/${post._id}`} className="link">
+          <span className="postTitle">{post.title}</span>
+        </Link>
         <hr />
-        <span className="postDate">1 hour ago</span>
+        <span className="postDate">
+          {new Date(post.createdAt).toDateString()}
+        </span>
       </div>
-      <p className="postDesc">
-      This was our day, and meticulously planned. We were on our bike by 5.15 am, it was dark but very peaceful at the same time. The road was all welcoming to our next milestone which was the base of Varandha Ghat. After an hour in the ride me and Antony we both realized that all is good we are in good shape and can ride without worrying of distance. This was going to change soon.
-      </p>
+      <p className="postDesc">{post.desc}</p>
     </div>
   );
 }

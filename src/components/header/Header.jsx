@@ -1,5 +1,5 @@
 import "./header.css";
-import image3 from'../../asset/ab.jpeg'
+import bannerImg from'../../asset/banner.jpg'
 
 export default function Header() {
   return (
@@ -10,9 +10,10 @@ export default function Header() {
       </div>
       <img
         className="headerImg"
-        src={image3}
+        src={bannerImg}
         alt=""
       />
     </div>
   );
 }
+
