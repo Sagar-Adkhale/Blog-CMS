@@ -47,3 +47,15 @@ The other challenge which was there was the roads for next 40 km was just uphill
  For next 40 km it was all about concentrating on the ride and managing the bike to not get a heavy impact. But the one thing was common since morning, the scenic views and peace. After good 2-3 hrs of riding, we are at Bhor chowk, expectation of lunch had to be replaced with special Misal thali of Bhor which was amazing on any day but for the day where there is still 60 -70 km of riding to be done, it was not much exciting. However, we had whatever we can and then we were off to pune. 
 
 We reached pune round 6 pm and exactly at our destination to Chetan’s place around 7.30 pm happy and tired. Chetan bhaiyya as usual met me like his younger brother with love, affection and treated us with quite a lavish dinner at Restaurant which we would have never gone by self.
+
+![](/images/uploads/element-5-.png)
+
+**Day 4 - Return To Home**
+
+The next day started little late with a Irani tea at Baner. At 7 am we were on highway towards vasai, this was going to be just a long day as we had to cover close to 190 km. We should have realized that 7 am is late for a cycling ride, the heat takes on you quickly you never realizing it. And the same happened by the time we reached khandala. We took break to ate heavy at kamat’s while planning what to do next, Now the whole ride was going to be inside the city chaos. There was a part of us which was ready to avoid cycling and hop on next tempo, shed some money, and just go home.
+
+But the Cyclist inside voiced it as cheating to self, and we were off on our bikes. However, from this point it was downhill getting down the ghats it was just about tackling the bike speed till khapoli. Once we were at khapoli, then we just pedalled motivated by onlookers and other companions on road appreciating our riding. Some of the bikers, car drivers came close to us hearing about our ride story for a while and respecting it. Some were also like why you would do that its 42 degrees. Whichever it was we were motivated and just rode crossing few climbs and one Mumbra ghat and finally reaching Ghodbunder road by evening 5 pm. From this point it was all mechanical, just pedalling and reaching home and eventually we were at home by 8.30.
+
+This ride was good experience and lesson for both of us. Antony is seasoned rider who rides 200km any given day within 10 hrs on his Steel frame and here we were on road bike tackling the routes and distance. Summarizing Touring is separate concept in altogether, passion drives one, but it would not be cool to attempt without giving it a decent practice.
+
+![](/images/uploads/1630468218974day4.png)
