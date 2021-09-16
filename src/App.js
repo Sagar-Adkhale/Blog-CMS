@@ -1,6 +1,6 @@
 import Home from "./pages/home/Home";
 import TopBar from "./components/topBar/Topbar";
-import Single from "./pages/single/Single";
+import SinglePost from "./components/singlePost/SinglePost";
 import Write from "./pages/write/Write";
 import Settings from "./pages/settings/Settings";
 import Login from "./pages/login/Login";
@@ -22,9 +22,7 @@ function App() {
         <Route path="/login">{user ? <Home /> : <Login />}</Route>
         <Route path="/write">{user ? <Write /> : <Register />}</Route>
         <Route path="/settings">{user ? <Settings /> : <Register />}</Route>
-        <Route path="/post/:postId">
-          <Single />
-        </Route>
+        <Route exact path="/post/:id" render={props => <SinglePost {...props} />} />
       </Switch>
     </Router>
   );

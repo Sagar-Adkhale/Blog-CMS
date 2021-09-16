@@ -1,107 +1,56 @@
-import axios from "axios";
-import { useContext, useEffect, useState } from "react";
-import { useLocation } from "react-router-dom";
-import { Link } from "react-router-dom";
-import { Context } from "../../context/Context";
+
+import React from "react";
+import { Redirect } from "react-router-dom";
+import Markdown from "react-markdown";
+import postlist from "../../posts.json";
 import "./singlePost.css";
 
-export default function SinglePost() {
-  const location = useLocation();
-  const path = location.pathname.split("/")[2];
-  const [post, setPost] = useState({});
-  const PF = "https://guts-blog.herokuapp.com/images/";
-  const { user } = useContext(Context);
-  const [title, setTitle] = useState("");
-  const [desc, setDesc] = useState("");
-  const [updateMode, setUpdateMode] = useState(false);
-
-  useEffect(() => {
-    const getPost = async () => {
-      const res = await axios.get("https://guts-blog.herokuapp.com/api/posts/" + path);
-      setPost(res.data);
-      setTitle(res.data.title);
-      setDesc(res.data.desc);
-    };
-    getPost();
-  }, [path]);
-
-  const handleDelete = async () => {
-    try {
-      await axios.delete(`https://guts-blog.herokuapp.com/api/posts/${post._id}`, {
-        data: { username: user.username },
-      });
-      window.location.replace("/");
-    } catch (err) {}
-  };
-
-  const handleUpdate = async () => {
-    try {
-      await axios.put(`https://guts-blog.herokuapp.com/api/posts/${post._id}`, {
-        username: user.username,
-        title,
-        desc,
-      });
-      setUpdateMode(false)
-    } catch (err) {}
-  };
-
-  return (
-    <div className="singlePost">
-      <div className="singlePostWrapper">
-        {post.photo && (
-          <img src={PF + post.photo} alt="" className="singlePostImg" />
-        )}
-        {updateMode ? (
-          <input
-            type="text"
-            value={title}
-            className="singlePostTitleInput"
-            autoFocus
-            onChange={(e) => setTitle(e.target.value)}
-          />
-        ) : (
-          <h1 className="singlePostTitle">
-            {title}
-            {post.username === user?.username && (
-              <div className="singlePostEdit">
-                <i
-                  className="singlePostIcon far fa-edit"
-                  onClick={() => setUpdateMode(true)}
-                ></i>
-                <i
-                  className="singlePostIcon far fa-trash-alt"
-                  onClick={handleDelete}
-                ></i>
-              </div>
-            )}
-          </h1>
-        )}
-        <div className="singlePostInfo">
-          <span className="singlePostAuthor">
-            Author:
-            <Link to={`/?user=${post.username}`} className="link">
-              <b> {post.username}</b>
-            </Link>
-          </span>
-          <span className="singlePostDate">
-            {new Date(post.createdAt).toDateString()}
-          </span>
+const Post = (props) => {
+    const validId = parseInt( props.match.params.id);
+    console.log("log",validId);
+    if (!validId) {
+        return <Redirect to="/404" />
+    }
+    const fetchedPost = {}
+    let postExists = false
+    postlist.forEach((post, i) => {
+        if (validId === post.id) {
+            fetchedPost.photo = post.thumbnail? post.thumbnail : ""
+            fetchedPost.title = post.title ? post.title : "No title given"
+            fetchedPost.date = post.date ? post.date : "No date given"
+            fetchedPost.author = post.author ? post.author : "No author given"
+            fetchedPost.content = post.content ? post.content : "No content given"
+            postExists = true
+        }
+    })
+    if (postExists === false) {
+        return <Redirect to="/404" />
+    }
+  
+    return (
+      <div className="singlePost">
+        <div className="singlePostWrapper">
+          {fetchedPost.photo && (
+            <img src={fetchedPost.photo} alt="" className="singlePostImg" />
+          )}
+        
+            <h1 className="singlePostTitle">
+              {fetchedPost.title}
+            </h1>
+          
+          <div className="singlePostInfo">
+            <span className="singlePostAuthor">
+              Author: {fetchedPost.author}
+            </span>
+            <span className="singlePostDate">
+            {fetchedPost.date}
+            </span>
+          </div>
+          <p className="singlePostDesc">
+          <Markdown children={fetchedPost.content} /></p>
         </div>
-        {updateMode ? (
-          <textarea
-            className="singlePostDescInput"
-            value={desc}
-            onChange={(e) => setDesc(e.target.value)}
-          />
-        ) : (
-          <p className="singlePostDesc">{desc}</p>
-        )}
-        {updateMode && (
-          <button className="singlePostButton" onClick={handleUpdate}>
-            Update
-          </button>
-        )}
       </div>
-    </div>
-  );
+    );
 }
+
+export default Post

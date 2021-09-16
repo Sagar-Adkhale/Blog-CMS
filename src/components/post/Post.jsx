@@ -1,26 +1,33 @@
 import "./post.css";
 import { Link } from "react-router-dom";
+import Markdown from "react-markdown";
+
 
 export default function Post({ post }) {
-  const PF = "https://guts-blog.herokuapp.com/images/";
+  const excerptList = post.content.split(" ").slice(0, 70).join(" ") + "...";
+  console.log(excerptList);
   return (
     <div className="post">
-      {post.photo && <img className="postImg" src={PF + post.photo} alt="" />}
+      {post.thumbnail && <img className="postImg" src={post.thumbnail} alt=""/> }
       <div className="postInfo">
         <div className="postCats">
-          {post.categories.map((c) => (
+          {post.categories ? post.categories.map((c) => (
             <span className="postCat">{c.name}</span>
-          ))}
+          )):""}
         </div>
-        <Link to={`/post/${post._id}`} className="link">
+        <Link to={`/post/${post.id}`} className="link">
           <span className="postTitle">{post.title}</span>
         </Link>
         <hr />
         <span className="postDate">
-          {new Date(post.createdAt).toDateString()}
+         Published on {post.date} by {post.author}
         </span>
       </div>
-      <p className="postDesc">{post.desc}</p>
+      <p className="postDesc">
+      <Markdown children={excerptList}/>
+      </p>
+      <small><Link className="links" to={`/post/${post.id}`}>Read more</Link></small>
+    
     </div>
   );
 }
