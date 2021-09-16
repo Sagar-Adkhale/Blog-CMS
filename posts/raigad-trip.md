@@ -4,28 +4,36 @@ author: sagar adkhale
 date: 2021-09-16T14:35:19.238Z
 thumbnail: /images/uploads/varandha.jpeg
 ---
+It was quite some time I had spent planning a cycling trip which intended to go through the routes covering maximum number of Ghats. The route was all decided, and the approximate distance of the journey was 1000km. The next was to rope my two companions yash, Antony and hope that the plan does not change till the day of ride. 
 
+The first fallout happened as Yash backed out because of urgent work commitments. However, I and Antony were all set to that we would go for this ride. Now it was just two of us and then the wise words of Antony which made me realise I was not capable of 1000kms even if I am in good shape. We cut the trip to 3 days to cover 500km. Though I was not much happy of this decision, but Antony had logic considering heat weather and being practical. 
 
-A week ago a friend invited a couple of other couples over for dinner. Eventually, the food (but not the wine) was cleared off the table for what turned out to be some fierce Scrabbling. Heeding the strategy of going for the shorter, more valuable word over the longer cheaper word, our final play was “Bon,” which–as luck would have it!–happens to be [a Japanese Buddhist festival](http://en.wikipedia.org/wiki/Bon_Festival), and not, as I had originally asserted while laying the tiles on the board, one half of a chocolate-covered cherry treat. Anyway, the strategy worked. My team only lost by 53 points instead of 58.![scrabbletiles.jpg](https://www.kenyonreview.org/site/wp-content/uploads/blog/uploads/2008/10/scrabbletiles.jpg)
+![](/images/uploads/1630466288660day1.png)
 
-Just the day before, our host [had written of the challenges](http://wicknews.wordpress.com/2008/10/10/short-is-the-new-long/) of writing short. In journalism–my friend’s chosen trade, and mostly my own, too–Mark Twain’s observation undoubtedly applies: “I didn’t have time to write a short letter, so I wrote a long one instead.” The principle holds across genres, in letters, reporting, and other writing. It’s harder to be concise than to blather. (Full disclosure, this blog post will clock in at a blather-esque 803 words.) Good writing is boiled down, not baked full of air like a souffl??. No matter how yummy souffl??s may be. Which they are. Yummy like a Grisham novel.
+**Day 1- Meet a Friend** 
 
-Lately, I’ve been noticing how my sentences have a tendency to keep going when I write them onscreen. This goes for concentrated writing as well as correspondence. (Twain probably believed that correspondence, in an ideal world, also demands concentration. But he never used email.) Last week I caught myself packing four conjunctions into a three-line sentence in an email. That’s inexcusable. Since then, I have tried to eschew conjunctions whenever possible. Gone are the commas, the and’s, but’s, and so’s; in are staccato declaratives. Better to read like bad Hemingway than bad Faulkner.
+The day arrived since it was just two of us, we packed our stuff in our saddle Tour bags and were off from Vasai at 7 am (this was a mistake) on a Monday. The target was to reach Mahad, where the Friend waited for us in his beautiful village. And we rode through first 100km crossing Thane, Panvel and reaching to Pen via all the crazy traffic. By the time we were in Pen the temperatures were 41 degrees and I was particularly dehydrated with an unwillingness to ride. This was the moment I realized how foolish I was to think of doing 1000km and we had probably crossed just 130 km. 
 
-Length–as we all know, and for lack of a more original or effective way of saying it–matters. But (ahem), it’s also a matter of how you use it. Style and length are technically two different things.
+After some discussion between me and Antony we decided that I was unable to ride we should go back home, but luck was with us, the Friend called and said rather than “going back home in some transports, why don’t you come over to my place which was just 60 km more and was on highway”. 
 
-Try putting some prose onscreen, though, and they mix themselves up pretty quickly. This has much to do with the time constraints we claim to feel in the digital age. We don’t have time to compose letters and post them anymore–much less pay postage, what with all the banks kinda-sorta losing our money these days–so we blast a few emails. We don’t have time to talk, so we text. We don’t have time to text to specific people, so we update our Facebook status. We don’t have time to write essays, so we blog.
+I had taken a week off for this ride only and did not wanted to go back home. So, I convinced Antony to go to Friend’s place. 
 
-I’m less interested by the superficial reduction of words–i.e. the always charming imho or c u l8r–than the genres in which those communications occur: blogs, texts, tweets, emails. All these interstitial communiques, do they really reflect super brevity that would make Twain proud? Or do they just reflect poorly stylized writing that desperately seeks a clearer form?
+Now it was 5 pm and we met our friend Sagar who took us to his village, assisted by some of his friends, the moment we entered the place, we were more than happy that we agreed to Sagar’s Invitation. The classic Village has fields, mountains, and River and this was the same. It was a wonderful evening I had recovered and by the time we were off to bed we decided to visit Raigadh fort the next day and take a break from riding. 
 
-I rather think the latter. Clive Thompson [wrote last month](http://www.nytimes.com/2008/09/07/magazine/07awareness-t.html?_r=2&pagewanted=1&ref=magazine&oref=slogin&oref=slogin) in the NYT Magazine that constant digital updates, after a day, can begin “to feel like a short story; follow it for a month, and it’s a novel.” He was right to see the bits as part of a larger whole. The words now flying through our digital pipes & ether more or less tend to resemble parts of bigger units, perhaps even familiar genres. But stories and novels have definite conclusions; they also have conventional lengths. Quick, how long is the conventional blog, when you add up all of its posts and comments? How long is the longest email thread you send back and forth on a single topic?
+![](/images/uploads/element-2-.png)
 
-Most important: What exactly are we writing when we’re doing all of this writing? I won’t pretend to coin a whole new term here; I still think the best we can muster is a more fitting analogue. And if we must find an analogue in an existing literary unit, I propose the paragraph. Our constant writing has begun to feel like a neverending digital paragraph. Not a tight, stabbing paragraph from *The Sun Also Rises* or even a graceful, sometimes-slinking, sometimes-soaring paragraph from *Absalom! Absalom!*, I mean a convoluted, haphazard, meandering paragraph, something like Kerouac’s [original draft of On the Road](http://www.msnbc.msn.com/id/14045410/)–only taped together by bytes. And 1 percent as interesting.
+**Day 2- Raigadh Fort** 
 
-Paragraphs, particularly those that wrap from one page to the next, inherently possess a necessary suspension that tightens the reader’s focus yet breaks down the narrative into digestable sections. Just like emails or blogs or texts. The mental questions while reading all of these feel the same:
+The day was all about embracing the village life and introspection of statement Sagar’s grandmother “love is everything”. This was no philosophical ride, but my 63-year-old young partner had some good discussion over the night where the grandmother mentioned she has never been outside the village and yet she is so happy in the present. Anyways we were off to visit Raigadh fort. Evenings were spent on a boat ride in the river and in the fields where my Techie Friend Sagar grows his own food by his bare hands reflecting the simplicity of Life. We were treated with a special dinner, family meet and some discussions over the food. 
 
-“Is this the last line or is there more?”
+With the night taking over the charge we had to take decision either to ride or go back by taking Public transport. After some discussions we decided to ride on the planned route. 
 
-“Is the writer really trying to say something here, or just setting up a larger point?”
+![](/images/uploads/element-3-.png)
 
-“Does this part have the information I’m looking for?”
+**Day 3-The challenge** 
+
+This was our day, and meticulously planned. We were on our bike by 5.15 am, it was dark but very peaceful at the same time. The road was all welcoming to our next milestone which was the base of Varandha Ghat. After an hour in the ride me and Antony we both realized that all is good we are in good shape and can ride without worrying of distance. This was going to change soon. 
+
+![](/images/uploads/anthony.jpg)
+
+Varandha ghat is a beautiful climb and with amazing views. We were on roll on the climbs, pedalling was difficult but still enjoyable and then after good 15 km of uphill riding the roads went bad. The initial thought was this is just a small section because we could see the topmost point of the ghat road. Anyways now we were at the top having tea and enjoying the view without much thinking what awaits ahead.
