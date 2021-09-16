@@ -37,3 +37,13 @@ This was our day, and meticulously planned. We were on our bike by 5.15 am, it w
 ![](/images/uploads/anthony.jpg)
 
 Varandha ghat is a beautiful climb and with amazing views. We were on roll on the climbs, pedalling was difficult but still enjoyable and then after good 15 km of uphill riding the roads went bad. The initial thought was this is just a small section because we could see the topmost point of the ghat road. Anyways now we were at the top having tea and enjoying the view without much thinking what awaits ahead.
+
+![](/images/uploads/element-4-.png)
+
+Our next milestone was to reach Bhor (which was about 40km). And here we realized the road conditions were not at all for bicycle ride, moreover we were on road bikes with Sleek tyres. Though we had spares but how much we would need could not be anticipated since the next 30 km was same. It was interesting and tiring to ride on these roads. But as I wrote before this was our day we manage without single puncture or tyre burst. 
+
+The other challenge which was there was the roads for next 40 km was just uphill, downhill at all sections with no Flat. And one cannot speed on downhill because the roads had stones, pebbles.
+
+ For next 40 km it was all about concentrating on the ride and managing the bike to not get a heavy impact. But the one thing was common since morning, the scenic views and peace. After good 2-3 hrs of riding, we are at Bhor chowk, expectation of lunch had to be replaced with special Misal thali of Bhor which was amazing on any day but for the day where there is still 60 -70 km of riding to be done, it was not much exciting. However, we had whatever we can and then we were off to pune. 
+
+We reached pune round 6 pm and exactly at our destination to Chetan’s place around 7.30 pm happy and tired. Chetan bhaiyya as usual met me like his younger brother with love, affection and treated us with quite a lavish dinner at Restaurant which we would have never gone by self.
