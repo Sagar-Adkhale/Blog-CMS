@@ -23,9 +23,9 @@ export default function Post({ post }) {
          Published on {post.date} by {post.author}
         </span>
       </div>
-      <p className="postDesc">
+      <div className="postDesc">
       <Markdown children={excerptList}/>
-      </p>
+      </div>
       <small><Link className="links" to={`/post/${post.id}`}>Read more</Link></small>
     
     </div>

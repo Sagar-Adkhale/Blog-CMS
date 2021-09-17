@@ -27,7 +27,7 @@
 .headerImg {
   width: 100%;
   /* margin-top: 80px; */
-  object-fit: cover;
+  object-fit: auto;
 }
 
 

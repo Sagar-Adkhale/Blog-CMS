@@ -46,8 +46,8 @@ const Post = (props) => {
             {fetchedPost.date}
             </span>
           </div>
-          <p className="singlePostDesc">
-          <Markdown children={fetchedPost.content} /></p>
+          <div className="singlePostDesc">
+          <Markdown children={fetchedPost.content} /></div>
         </div>
       </div>
     );
