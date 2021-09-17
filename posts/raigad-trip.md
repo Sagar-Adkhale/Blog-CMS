@@ -2,7 +2,7 @@
 title: The Great Raigad Trip
 author: Tarique Ansari
 date: 2021-01-27T17:38:50.326Z
-thumbnail: /images/uploads/varandha.jpeg
+thumbnail: /images/uploads/raigad-day2.png
 ---
 It was quite some time I had spent planning a cycling trip which intended to go through the routes covering maximum number of Ghats. The route was all decided, and the approximate distance of the journey was 1000km. The next was to rope my two companions yash, Antony and hope that the plan does not change till the day of ride. 
 
