@@ -9,6 +9,12 @@
   flex-direction: column;
 }
 
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .singlePostImg {
   width: 100%;
   height: 400px;
