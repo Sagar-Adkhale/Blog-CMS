@@ -39,7 +39,7 @@ export default function Contact() {
         setShow(true);
         window.setTimeout(()=>{
           setShow(false);
-        },5000)
+        },20000)
           console.log("result",result.text);
       }, (error) => {
           console.log(error.text);
@@ -68,17 +68,17 @@ export default function Contact() {
                 </div>
                 <div className="col-lg-12">
                   <div className="form-group mt-2">
-                    <input className="form-control" type="email" placeholder="email address"/>
+                    <input className="form-control" type="email" name="email" placeholder="email address"/>
                   </div>
                 </div>
                 <div className="col-lg-12">
                   <div className="form-group mt-2">
-                    <input className="form-control" type="text" placeholder="phone"/>
+                    <input className="form-control" type="text" name="phone" placeholder="phone"/>
                   </div>
                 </div>
                 <div className="col-lg-12">
                   <div className="form-group mt-2">
-                    <textarea className="form-control" rows="3" placeholder="message"></textarea>
+                    <textarea className="form-control" rows="3" name="message" placeholder="message"></textarea>
                   </div>
                 </div>
                 <div className="col-lg-12">
