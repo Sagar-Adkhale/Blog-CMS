@@ -11,7 +11,7 @@ export default function AboutUs() {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="topList me-auto">
           <Nav.Link className="topListItem" href="/">HOME</Nav.Link>
-          <Nav.Link className="topListItem" href="/aboutUs">ABOUT US</Nav.Link>
+          <Nav.Link className="topListItem" href="/">ABOUT US</Nav.Link>
           <Nav.Link className="topListItem" href="/contact">CONTACT US</Nav.Link>
           {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
             <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
