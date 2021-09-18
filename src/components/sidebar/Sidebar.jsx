@@ -10,7 +10,7 @@ export default function Sidebar() {
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIssRwi23Jw7mt7uaHThxwVlBNQwRH075Yw&usqp=CAU"
           alt=""
         />
-        <div>
+        <div class="sidebarSlogan">
         There are many bike sayings about bike popularity and biking, but one of my favorites saying about biking is “Learn to ride a bike. You will not regret it if you live.”  
         </div>
       </div>

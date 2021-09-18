@@ -8,9 +8,21 @@ export default function Home() {
   return (
     <>
       <Header />
-      <div className="home">
+      {/* <div className="home container"> */}
+      <div className="contact3 py-5">
+  <div className="row no-gutters">
+    <div className="container">
+      <div className="row">
+        <div className="col-lg-9">
         <Posts  />
+        </div>
+        <div className="col-lg-3">
+
         <Sidebar />
+        </div>
+        </div>
+        </div>
+        </div>
       </div>
     </>
   );
