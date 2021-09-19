@@ -10,11 +10,9 @@ function App() {
     <Router>
       <TopBar />
       <Switch>
-        <Route exact path="/">
-          <Home />
-        </Route>
+        <Route exact path="/" component={Home}/>
         <Route path="/contact" component={Contact}/> 
-        <Route path="/aboutUs"> <AboutUs /> </Route>
+        <Route path="/aboutUs" component={AboutUs}/> 
         
         <Route exact path="/post/:id" render={props => <SinglePost {...props} />} />
       </Switch>
