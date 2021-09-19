@@ -58,8 +58,8 @@ export default function Contact() {
         </div>
         <div className="col-lg-6">
           <div className="contact-box ml-3">
-            <h1 className="font-weight-light mt-2">Quick Contact</h1>
-            <form ref={form} onSubmit={sendEmail}>
+            <h1 style={{marginLeft:"20px"}} className="font-weight-light mt-2">Quick Contact</h1>
+            <form style={{margin:"20px"}}ref={form} onSubmit={sendEmail}>
               <div className="row">
                 <div className="col-lg-12">
                   <div className="form-group mt-2">

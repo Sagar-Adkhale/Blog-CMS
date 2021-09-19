@@ -10,7 +10,9 @@ const PostList = () => {
         <div className="posts">
             {postlist.length && 
                 postlist.map((post, i) => {
-                 return <Post post={post} />})
+                 return (       <div key={i}>
+                    <Post post={post} />
+                    </div>)})
             }
         </div>
     )
