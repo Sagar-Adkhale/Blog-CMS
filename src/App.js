@@ -13,7 +13,7 @@ function App() {
         <Route exact path="/">
           <Home />
         </Route>
-        <Route path="/contact"> <Contact /> </Route>
+        <Route path="/contact" component={Contact}/> 
         <Route path="/aboutUs"> <AboutUs /> </Route>
         
         <Route exact path="/post/:id" render={props => <SinglePost {...props} />} />
