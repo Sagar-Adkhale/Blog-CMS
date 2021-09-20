@@ -7,6 +7,8 @@ export default function Home() {
   
   return (
     <>
+        <div id="container">
+
       <Header />
       {/* <div className="home container"> */}
       <div className="contact3 py-5">
@@ -23,6 +25,7 @@ export default function Home() {
         </div>
         </div>
         </div>
+      </div>
       </div>
     </>
   );

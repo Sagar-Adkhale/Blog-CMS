@@ -1,3 +1,6 @@
 .home{
     display: flex;
 }
+  #container {
+    display: inline-block;
+  }
