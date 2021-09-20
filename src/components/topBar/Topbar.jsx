@@ -1,6 +1,5 @@
 import './topbar.css'
-import {Navbar,Container, Nav} from 'react-bootstrap';
-import { Link } from "react-router-dom";
+import {Navbar, Nav} from 'react-bootstrap';
 
 export default function AboutUs() {
 
