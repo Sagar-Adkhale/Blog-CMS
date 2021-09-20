@@ -9,6 +9,7 @@ function App() {
   return (
     <Router>
       <TopBar />
+      <div style={{marginTop:"50px"}}>
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route path="/contact" component={Contact}/> 
@@ -16,6 +17,7 @@ function App() {
         
         <Route exact path="/post/:id" render={props => <SinglePost {...props} />} />
       </Switch>
+      </div>
     </Router>
   );
 }

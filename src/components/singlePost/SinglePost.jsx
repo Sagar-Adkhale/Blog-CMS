@@ -4,6 +4,7 @@ import { Redirect } from "react-router-dom";
 import Markdown from "react-markdown";
 import postlist from "../../posts.json";
 import "./singlePost.css";
+import BackButton from '../reactComponent/backButton'
 
 const Post = (props) => {
     const validId = parseInt( props.match.params.id);
@@ -29,7 +30,7 @@ const Post = (props) => {
   
     return (
       <div className="singlePost">
-        <div className="singlePostWrapper">
+    <div className="singlePostWrapper">
           {fetchedPost.photo && (
             <img src={fetchedPost.photo} alt="" className="singlePostImg" />
           )}
@@ -49,6 +50,7 @@ const Post = (props) => {
           <div className="singlePostDesc">
           <Markdown children={fetchedPost.content} /></div>
         </div>
+       <BackButton/>
       </div>
     );
 }
