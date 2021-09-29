@@ -93,15 +93,14 @@ export default function Contact() {
         <div className="col-lg-12">
           <div className="card mt-4 border-0 mb-4">
             <div className="row">
-              <div className="col-lg-4 col-md-4">
-                <div className="card-body d-flex align-items-center c-detail pl-0">
+              <div className=" col-lg-4 col-md-4">
+                <div className="boxes card-body d-flex align-items-center c-detail pl-0">
                   <div className="mr-3 align-self-center">
                     <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/contact/icon1.png" alt=""/>
                   </div>
-                  <div className="">
-                    <h6 className="font-weight-medium">Address</h6>
-                    <div className="">Vasai.
-                      <br/> virar</div>
+                  <div className="boxes">
+                    <h5 className="font-weight-medium">Address</h5>
+                    <div className="">Sunshine Tower SunCity<br/> Vasai West Palghar<br/>  Maharashtra 401202</div>
                   </div>
                 </div>
               </div>
@@ -110,10 +109,10 @@ export default function Contact() {
                   <div className="mr-3 align-self-center">
                     <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/contact/icon2.png" alt=""/>
                   </div>
-                  <div className="">
-                    <h6 className="font-weight-medium">Phone</h6>
-                    <div className="">123456789
-                      <br/> 987654321</div>
+                  <div className="boxes">
+                    <h5 className="font-weight-medium">Phone</h5>
+                    <div className="">
+                    8169658007</div>
                   </div>
                 </div>
               </div>
@@ -122,11 +121,10 @@ export default function Contact() {
                   <div className="mr-3 align-self-center">
                     <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/contact/icon3.png" alt=""/>
                   </div>
-                  <div className="">
-                    <h6 className="font-weight-medium">Email</h6>
+                  <div className="boxes">
+                    <h5 className="font-weight-medium">Email</h5>
                     <div className="">
-                      test@guts.com
-                      <br/> 123@guts.com
+                      gutsindia2020@gmail.com
                     </div>
                   </div>
                 </div>
