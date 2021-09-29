@@ -8,8 +8,6 @@ The decision was made to go for a route which must be more than 200kms and at le
 
 This was an aggressive ride which we would have to do and both of us were of opinion to avoid the highway as much as possible in dark which meant our route must be from the interiors. There is always an advantage of Highway that one can get fast roads to ride on. Anyways we finalized the below Route to be taken for the ride. 
 
-![](/images/uploads/image001.png)
-
 The distance didn’t really look like a challenge. A rider, before any ride starts calculating, and average speed of 20kmph for 10 can get the distance easily. Also, the high-end road bikes of today are so well crafted in weight, geometry that this is not difficult for a seasoned rider to achieve the same. 
 
 **The Start- Cruising** 
