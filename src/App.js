@@ -1,7 +1,7 @@
 import Home from "./pages/home/Home";
 import TopBar from "./components/topBar/Topbar";
 import SinglePost from "./components/singlePost/SinglePost";
-import Contact from "./pages/contact/contact";
+import Contact from "../src/pages/contact/contact";
 import Shop from "./pages/shop/shop";
 // import AboutUs from "./pages/aboutUs/aboutus";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
