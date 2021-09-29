@@ -10,7 +10,7 @@ export default function AboutUs() {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav" >
         <Nav className="topList me-auto">
-          <Nav.Link className="topListItem" href="/">HOME</Nav.Link>
+          <Nav.Link className="topListItem" href="/">DIARIES</Nav.Link>
           <Nav.Link  className="topListItem" href="/shop">SHOP</Nav.Link>
           <Nav.Link  className="topListItem" href="/contact">CONTACT US </Nav.Link>
           {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
