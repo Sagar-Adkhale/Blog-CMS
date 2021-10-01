@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <TopBar />
-      <div style={{marginTop:"2%"}}>
+      <div style={{  "padding-top": "4.4rem"}}>
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route path="/contact" component={Contact}/> 

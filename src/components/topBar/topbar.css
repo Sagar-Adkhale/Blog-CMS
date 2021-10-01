@@ -1,27 +1,31 @@
-.navbar-light .navbar-brand {
-  color: purple;
+.navbar-dark .navbar-brand {
+  color: white;
   font-size: 30px;
   font-weight: 700;
   margin-left: 5%;
+  font-family: "Roboto", sans-serif;
 }
-
-
 .topListItem {
   margin-right: 30px;
   font-size: 18px;
   font-weight: 300;
   cursor: pointer;
+  color: white;
 }
 .topList {
-flex: 6;
-display: flex;
-justify-content: center;
-margin: 0;
-padding: 0;
-list-style: none;
-margin-right: 15px;
-margin-left: 15px;
-font-size: 18px;
-font-weight: 300;
-cursor: pointer;
+  flex: 6;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-right: 15px;
+  margin-left: 15px;
+  font-size: 18px;
+  font-weight: 300;
+  cursor: pointer;
+}
+.nav-link {
+  font-family: "Roboto", sans-serif;
+  color: white !important;
 }
