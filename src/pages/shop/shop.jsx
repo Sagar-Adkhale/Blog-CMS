@@ -1,16 +1,20 @@
-
 import "./shop.css";
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import logo from '../../asset/maintenance.png';
-export default function Contact() {
-
-
+export default function Shop() {
   return (
-      <div>
-            <div class="elevenstyle__ContentWrapper-sc-1ymt0wl-5 iwpLQK">
- ̰                <h2><span>Something Big update is coming by our team. Wait! We are launching soon with amazing updates!</span></h2>
-                <img src={logo} className="img-fluid" alt=""/>
-        </div>
-  </div>
+    <div className="head-text">
+      <div className="head-image">
+        <img
+          className="shopImg"
+          alt=""
+          src="https://cdn.road.cc/sites/default/files/styles/main_width/public/horizontal-dark-road-2-spot.jpg"
+        />
+      </div>
+      <div className="center__text">
+        <h2>
+          <span>Product catalog coming soon!!</span>
+        </h2>
+      </div>
+    </div>
   );
 }
