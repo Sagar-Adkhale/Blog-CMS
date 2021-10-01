@@ -18,7 +18,7 @@ export default function Slider() {
           return (
             <div key={i} className="head-text">
               <div className="head-image">
-                <img className="sliderImg" alt="" src={post.thumbnail} /> 
+                <img className="sliderImg" alt="" src={post.sliderImg} /> 
               </div>
               <div className="center__text">
                  
