@@ -10,15 +10,19 @@ function App() {
   return (
     <Router>
       <TopBar />
-      <div style={{  "padding-top": "4.4rem"}}>
-      <Switch>
-        <Route exact path="/" component={Home}/>
-        <Route path="/contact" component={Contact}/> 
-        {/* <Route path="/aboutUs" component={AboutUs}/>  */}
-        <Route path="/shop" component={Shop}/> 
+      <div style={{ "padding-top": "4.4rem" }}>
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/contact" component={Contact} />
+          {/* <Route path="/aboutUs" component={AboutUs}/>  */}
+          <Route path="/shop" component={Shop} />
 
-        <Route exact path="/post/:id" render={props => <SinglePost {...props} />} />
-      </Switch>
+          <Route
+            exact
+            path="/post/:id"
+            render={(props) => <SinglePost {...props} />}
+          />
+        </Switch>
       </div>
     </Router>
   );
