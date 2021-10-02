@@ -10,7 +10,7 @@ export default function Slider() {
       <Carousel
         autoPlay="true"
         infiniteLoop={true}
-        interval={3000}
+        interval={1500}
         showThumbs={false}
         showStatus={false}
       >
@@ -20,7 +20,7 @@ export default function Slider() {
               <div className="head-image">
                 <img className="sliderImg" alt="" src={post.sliderImg} /> 
               </div>
-              <div className="center__text">
+              <div className="ctext">
                  
                 <Link to={`/post/${post.id}`} className="link">
                   <h1> {post.title}</h1>
