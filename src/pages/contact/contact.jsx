@@ -30,10 +30,12 @@ export default function Contact() {
   
   const sendEmail = (e) => {
     e.preventDefault();
-    console.log(form.current);
-    console.log(process.env.REACT_APP_YOUR_SERVICE_ID);
+    const sid =  process.env.REACT_APP_YOUR_SERVICE_ID;   
+    const tid = process.env.REACT_APP_YOUR_TEMPLATE_ID;
+    const uid = process.env.REACT_APP_YOUR_USER_ID;
+    console.log("getting from server",process.env.REACT_APP_YOUR_SERVICE_ID);
 
-    emailjs.sendForm(process.env.REACT_APP_YOUR_SERVICE_ID, process.env.REACT_APP_YOUR_TEMPLATE_ID, form.current, process.env.REACT_APP_YOUR_USER_ID)
+    emailjs.sendForm(sid, tid, form.current, uid)
       .then((result) => {
        
         setShow(true);
