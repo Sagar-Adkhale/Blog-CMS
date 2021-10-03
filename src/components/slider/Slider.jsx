@@ -10,7 +10,7 @@ export default function Slider() {
       <Carousel
         autoPlay="true"
         infiniteLoop={true}
-        interval={2000}
+        interval={2500}
         showThumbs={false}
         showStatus={false}
       >
