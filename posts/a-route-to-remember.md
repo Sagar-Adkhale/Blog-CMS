@@ -2,7 +2,7 @@
 title: A Route to Remember
 author: Tarique Ansari
 date: 2021-04-14T10:13:07.805Z
-sliderImg: /images/uploads/java.jpg
+sliderImg: /images/uploads/slider2.jpg
 thumbnail: /images/uploads/image002.png
 ---
 The decision was made to go for a route which must be more than 200kms and at least one decent ghat(climb) to climb upon. 
