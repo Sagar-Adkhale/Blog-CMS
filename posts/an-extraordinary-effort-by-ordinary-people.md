@@ -5,10 +5,7 @@ date: 2021-10-08T06:07:23.219Z
 sliderImg: /images/uploads/shogun-rusted.png
 thumbnail: /images/uploads/conversion-3.png
 ---
-## Converting a Vintage Road bike
-
 The reason I call it an extraordinary effort because this is a small restoration project executed by a small team who didn’t really knew the technical of the project which they were getting into. 
-
 
 **Disclaimer:** *This is not the first time someone had attempted this. The intent is not to glorify the project, rather we just intend to conclude cycling need not be a costly sport*
 
@@ -27,8 +24,6 @@ There is no need to reinvent the wheel, but its altogether different fun to rest
 
 ![parts which were removed and retained ](/images/uploads/refurbishment.png "The rust removal")
 
-
-
 **Result removal and refurbishing**
 
 1. The rust removal took almost 3 days, and consumption of almost 2 wood pols and 1 WD-40
@@ -45,7 +40,6 @@ There is no need to reinvent the wheel, but its altogether different fun to rest
 
 This conversion was very clear in mind what I wanted to achieve, steel frame rugged road bike, which will have more upright position like a touring bike with drop bar and most important the bike can be fixed in any roadside cycle shop.
 
- 
 To get this done, Area of focus was - the stem shape and the dropbar (the reach, drop in the handlebar, the centre diameter, the width/length of the dropbar)
 Refer below image for understanding technicals in a dropbar.
 
