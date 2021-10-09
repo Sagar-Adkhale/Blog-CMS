@@ -24,7 +24,7 @@ There is no need to reinvent the wheel, but its altogether different fun to rest
 
 ![parts which were removed and retained ](/images/uploads/refurbishment.png "The rust removal")
 
-**Result removal and refurbishing**
+**Rust removal and refurbishing**
 
 1. The rust removal took almost 3 days, and consumption of almost 2 wood pols and 1 WD-40
 2. Once the parts are separated then one needs to put a anti rust and then paint the parts
@@ -45,13 +45,13 @@ Refer below image for understanding technicals in a dropbar.
 
 ![(Source : Internet (road.cc)](/images/uploads/handlebar-technicals.png "Dropbar Technicals")
 
-![The stem can be retained for good upright position, but the clamp of this stem works with 22.4,25.4mm handlebars](/images/uploads/btwin-original.png "Original bike")
+![The stem can be retained for good upright position, but the clamp of this stem works with 22.4,25.4mm handlebars](/images/uploads/btwin-original-_1.png "Original bike")
 
-![standard dropbar of 31.8mm clamp diameter. Disadvantage stem is not upright, drop and reach of dropbar is very high](/images/uploads/conversion-1.png "Conversion 1")
+![standard dropbar of 31.8mm clamp diameter. Disadvantage stem is not upright, drop and reach of dropbar is very high](/images/uploads/conversion_1.png "Conversion 1")
 
-![Extremely high drop, reduced length of handlebar, no standard brake lever in market for track dropbars. ](/images/uploads/conversion-2.png "Conversion 2- Attached a dropbar of a track bike")
+![Extremely high drop, reduced length of handlebar, no standard brake lever in market for track dropbars. ](/images/uploads/conversion_3.png "Conversion 2- Attached a dropbar of a track bike")
 
-![A new drop bar of size 25.4mm- Better reach ,drop(120mm),specific brake for the dropbar too.](/images/uploads/conversion-3.png "Final Conversion")
+![A new drop bar of size 25.4mm- Better reach ,drop(120mm),specific brake for the dropbar too.](/images/uploads/final-conversion.png "Final Conversion")
 
 The bike has gone more than 1000kms. This includes long rides of 100-150kms
 These long rides have been on smooth and not so smooth roads, so far it is doing well. This my go to bike to commute to office, shopping and for hard training(end of the day its steel frame bike with some customization). 
