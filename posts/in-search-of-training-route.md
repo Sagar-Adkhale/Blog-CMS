@@ -24,5 +24,3 @@ Here are few pictures from around.
 ![](/images/uploads/hills.jpg)
 
 ![](/images/uploads/road-has-answers.jpg)
-
-<!--EndFragment-->
