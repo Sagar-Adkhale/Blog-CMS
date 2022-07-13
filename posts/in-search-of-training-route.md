@@ -17,6 +17,12 @@ Here are few pictures from around.
 
 ![](/images/uploads/not-alone.png)
 
-![]()
+![](/images/uploads/palamali.jpg)
+
+![](/images/uploads/forest.jpg)
+
+![](/images/uploads/hills.jpg)
+
+![](/images/uploads/road-has-answers.jpg)
 
 <!--EndFragment-->
