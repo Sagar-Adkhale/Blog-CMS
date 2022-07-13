@@ -5,14 +5,14 @@ date: 2022-07-13T05:34:34.983Z
 sliderImg: /images/uploads/slider-image-training-route.jpg
 thumbnail: /images/uploads/img_0428.jpg
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ thumbnail: /images/uploads/img_0428.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ thumbnail: /images/uploads/img_0428.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -657,7 +657,7 @@ thumbnail: /images/uploads/img_0428.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -668,5 +668,11 @@ How much ever attractive, cycling may look or sound (considering the costly gear
 Hence forth to build the endurance and get back to training, I went ahead in identifying some routes which can be used on daily basis for training. Coimbatore is a city where in single ride of 20km will take you out of the city. At the same time the city has lot of good inroads which connects different areas and generally devoid of traffic. Within these roads one can make some good training routes from 20km-50km. I have been successful in identifying few routes and have also found fellow riders.
 
 Here are few pictures from around.
+
+![](/images/uploads/in-search-road-pic.jpg)
+
+![](/images/uploads/not-alone.png)
+
+![]()
 
 <!--EndFragment-->
