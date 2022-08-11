@@ -3,9 +3,9 @@ title: What Goes up Goes down
 author: TARIQUE ANSARI
 date: 2022-08-11T06:01:43.884Z
 sliderImg: /images/uploads/gopr1056.jpg
-thumbnail: /images/uploads/g0081162.jpg
+thumbnail: /images/uploads/cover-.jpg
 ---
-![](/images/uploads/cover-.jpg)
+![]()
 
 I have been cycling regularly and have also met of couple of regular riders in coimbatore. It’s been a while, the thought of Riding uphill in mountains is very fascinating and after my visit to **coonoor- ooty**, I was convinced to go for a ride in Nilgiris. I consulted with Karthik and told him my ride plan. Not only he gave me pointers he also joined for the ride upto a certain distance. We planned to ride early in morning around 5 am from Thudiyalur junction so that we go easy and alos have time at our side.
 
