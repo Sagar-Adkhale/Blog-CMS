@@ -21,13 +21,13 @@ So here I am at coonoor happily under impression that I have crossed the difficu
 
 ![](/images/uploads/gopr1068.jpg)
 
-![](/images/uploads/screenshot-2022-08-11-at-12.27.45-pm.png)
-
 **Coonoor** to **Aravenu** is a very beautiful route with view to waterfalls , the route itself cuts through tea estates. But surprisingly the height drops to 300m, which means one must again climb a height of 300m to reach the point from where the downhill starts. And guess what, it starts to rain heavily ,adding to the “**beauty of place**” - that’s what you say *When you are unable to ride without struggling*
 
 ![](/images/uploads/img_0860.jpg)
 
-As mentioned before don’t be the ***“hero in the town”,*** I took break, relaxed for more than an hour had some amazing cake and left only when I felt comfortable and confident. After Aravenu it was just handling downhill riding to Mettupalaym for next 30kms. This whole belt of 80kms Metupalaym - Coonoor - Aravenu - Mettuplayam does makes one happy, tired, and exhausted.
+As mentioned before don’t be the ***“Hero in the town”,*** I took break, relaxed for more than an hour had some amazing cake and left only when I felt comfortable and confident. After Aravenu it was just handling downhill riding to Mettupalaym for next 30kms. This whole belt of 80kms Metupalaym - Coonoor - Aravenu - Mettuplayam does makes one happy, tired, and exhausted.
+
+![](/images/uploads/screenshot-2022-08-11-at-12.27.45-pm.png)
 
 From this point its next 35kms to home, a bit of rolling route but okay to ride. And it became easy because met another Rider Guru, a young and fast rider who became a friend and soon will be joining for next long ride
 
