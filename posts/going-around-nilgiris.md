@@ -21,7 +21,7 @@ Myself, Shravanan and Karthik started early morning as planned. But things were 
 
 Eventually all drama concluded, and we took off to Ooty but it was already 12 and it was still 25km uphill riding to be finished to Ooty. We were lucky to meet two of my friends and colleagues Daniel and babu suresh (Can be seen above in PIC). Daniel helped us with stay in the peak season
 
-Now we reached Ooty around 3.30 pm. After refreshing it was already 5pm. The greater challenge was to find a place to stay in peak season and it 
+Now we reached Ooty around 3.30 pm. After refreshing it was already 5pm. We called a the day off as it was not logical to continue ride to Gudalur which would pass through forest areas.
 
 **Day 2**
 
