@@ -5,7 +5,7 @@ date: 2023-05-16T09:31:09.017Z
 sliderImg: /images/uploads/slider.png
 thumbnail: /images/uploads/gopr1328.jpg
 ---
-I﻿ had always wanted to do a tour around Nilgiris and Ride the hills. The Nilgiris gives and Average elevation of 2000m. The 3day-route we had planned was  **Coimbatore-Kotagiri- Ooty , Ooty-Gudalur-Wayanad - Omasery-mukkam-Manarkkad-coimbatore.** 
+I﻿ had always wanted to do a tour around Nilgiris and Ride the hills. . The 3 day-route we had planned was  **Coimbatore-Kotagiri- Ooty , Ooty-Gudalur-Wayanad - Omasery-mukkam-Manarkkad-coimbatore.** 
 
 T﻿he total distance of the tour was around 460km with an elevation gain of 6000m.
 
@@ -13,7 +13,7 @@ T﻿he total distance of the tour was around 460km with an elevation gain of 600
 
 Day 1 initial plan was to pass Ooty by afternoon and reach Gudalur. This would be around 150km distance and reduce the load for next day where we had planned to pass waynad and enter plains of kerala which would be again 2000m of Elevation.
 
-Myself, Shravanan and Karthik started early morning as planned. But things were about to change, and Plans were about to fail. The climb to ooty was 60 km uphill via the route which we took. Karthik was first get hit by heat amongst us thereby he suggested us to go ahead. I and shravanan took off from that point, but just 5km in ride we had a major problem with Shravanan bike. We were not able fix derailleur and had to swap the bike with Karthik’s bike.
+Myself, Shravanan and Karthik started early morning as planned. But things were about to change, and Plans were about to fail. The climb to ooty was 60 km uphill via the route which we took. Karthik was first to get hit by heat amongst us thereby he suggested us to go ahead. I and shravanan took off from that point, but just 5km in ride we had a major problem with Shravanan bike. We were not able fix derailleur and had to swap the bike with Karthik’s bike. 
 
 ![](/images/uploads/day-1.png)
 
