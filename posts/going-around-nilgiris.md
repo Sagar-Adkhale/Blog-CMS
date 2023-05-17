@@ -39,4 +39,10 @@ We were already in mindset that it would be long day, but it will be just more d
 
 After cursing the circumstances for a while we both realised all we can do is ride our bike and so did we. Once you get in zone of 'just keep pedalling' things becomes easier. We reached palakkad at 5 pm and had lunch. Now coimbatore was just 45km away, the only minor challenge remaining will be to ride in dark after 7pm. Just to ensure we cover maximum distance before sunsets, I rode at 30-33kmph for next stop at walyar and Sharvanan followed as well. We could go fast because we had recovered by now and also it was highway. We did made to walyar before 7pm and were quite happy since the distance to coimbatore has come down to 25-27kms. At this point even if one rides slow one will reach the city in 2hrs. So we took a tea break, this was a mistake and we were about to realise it. All of sudden intense rain started, we are okay to ride in rain as it helps in recovering. But who thought there would be thunderstorms. Thunderstorms were so loud and scary that we both just went to Walyar station to enquire if we can get a train to coimbatore, but no luck. Finally at 8.30Pm when thunderstorms stopped and rains subsided we decided to ride . We ended the day/ with 190km of riding. And also concluded the tour successfully.
 
+W﻿atch our Journey
+
+<https://youtu.be/3bxa0pMWcZw>
+
+
+
 ![](/images/uploads/day-3.png)
