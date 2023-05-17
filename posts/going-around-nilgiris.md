@@ -19,9 +19,7 @@ Myself, Shravanan and Karthik started early morning as planned. But things were 
 
 ![](/images/uploads/screenshot-2023-05-16-at-3.34.57-pm.png)
 
-Eventually all drama concluded, and we took off to Ooty but it was already 12 and it was still 25km uphill riding to be finished to Ooty. We were lucky to meet two of my friends and colleagues Daniel and babu suresh (Can be seen above in PIC). Daniel helped us with stay in the peak season
-
-Now we reached Ooty around 3.30 pm. After refreshing it was already 5pm. We called a the day off as it was not logical to continue ride to Gudalur which would pass through forest areas.
+Eventually all drama concluded, and we took off to Ooty but it was already 12 and it was still 25km uphill riding to be finished to Ooty. We were lucky to meet two of my friends and colleagues Daniel and babu suresh (Can be seen above in image). We reached Ooty around 3.30 pm, after refreshing it was already 5pm. We called a the day off as it was not logical to continue ride to Gudalur which would pass through forest areas. Mr Daniel arranged for a night stay in a very beautiful area in Ooty.
 
 **Day 2**
 
@@ -29,7 +27,7 @@ After a good night sleep, we started our next day with objective of reaching a p
 
 kerala is at altitude of -20m with almost no flat road. The whole route to mukkam was Rolling route with gradient of 11-13% (As per our Cylcometers).
 
-And this day as well we had to end the ride at a place called as omasery, 30km short from Mukkam. With this day the hope of having an easy 3rd day was gone as well. Anyways day 2 ended with 170km in terms of mileage and we were in kerala.
+And this day as well we had to end the ride at a place called as omasery, 30km short from Mukkam. Though we covered 170km on day 2 but since we were short of 30km from our actual destination it was obvious that 3rd day is not going to be easy anymore.
 
 ![](/images/uploads/day-21.png)
 
@@ -37,8 +35,8 @@ And this day as well we had to end the ride at a place called as omasery, 30km s
 
 **Day 3**
 
-We were already in mindset that it would be long day, but it will be just more distance no other challenges like Route, bike, weather etc. We also tweaked our initial route which passed through some high gradient ascends and descends. So technically if one is fit enough, you will do just fine. Anyways there was something else in store. We had puncture in one bike around 11.30, unfortunately we could not fix it. Therefore, to get that fixed we had to go to a bike shop which was on 5km mark of our initial route of climbs. All this consumed close to 1.5hr for us and the temperature has already touched 37-38 degrees.
+We were already in mindset that it would be long day, but it will be just more distance no other challenges like Route, bike, weather etc. We also tweaked our initial route which passed through some high gradient ascends and descends. So technically if one is fit enough, you will do just fine. But there was something else in store. We had puncture in one bike around 11.30, and we could not fix it. Therefore, to get that fixed we had to go to a bike shop which was on 5km mark of our initial route of climbs. By now we had lost around 1.5 hr , the temperatures has risen and we were back on our initial route of ascends and descends. 
 
-Now we were so stuck that we decided to ride till Palakkad which was 60-70km from that point and then only have lunch. We rode, struggled but managed to reach Palakkad in evening. Finally after having lunch between 5-6 pm, we started for coimbatore. We were already riding hard when we faced thunderstorms on way to coimbatore which made us to retreat at walyar. We almost called the day off and were thinking of other ideas, however we started tride again around 8.30 and reached coimbatore at 10pm.
+After cursing the circumstances for a while we both realised all we can do is ride our bike and so did we. Once you get in zone of 'just keep pedalling' things becomes easier. We reached palakkad at 5 pm and had lunch. Now coimbatore was just 45km away, the only minor challenge remaining will be to ride in dark after 7pm. Just to ensure we cover maximum distance before sunsets, I rode at 30-33kmph for next stop at walyar and Sharvanan followed as well. We could go fast because we had recovered by now and also it was highway. We did made to walyar before 7pm and were quite happy since the distance to coimbatore has come down to 25-27kms. At this point even if one rides slow one will reach the city in 2hrs. So we took a tea break, this was a mistake and we were about to realise it. All of sudden intense rain started, we are okay to ride in rain as it helps in recovering. But who thought there would be thunderstorms. Thunderstorms were so loud and scary that we both just went to Walyar station to enquire if we can get a train to coimbatore, but no luck. Finally at 8.30Pm when thunderstorms stopped and rains subsided we decided to ride . We ended the day/ with 190km of riding. And also concluded the tour successfully.
 
 ![](/images/uploads/day-3.png)
