@@ -5,13 +5,13 @@ date: 2023-11-06T04:17:35.886Z
 sliderImg: /images/uploads/img_2525.jpg
 thumbnail: /images/uploads/51c00f99-9bb1-483a-a307-c672679fe9b1.jpg
 ---
-
-
-
-
 After my last solo tour , I have been wanting to execute a short 3-4 day ride which would pass through hills. I popped the idea to one the cyclist friend and luckily his schedule allowed to to join.
 
 We started to plan the route, as usual I had chosen a route which would have lot of Uphills and tough climbs. Our plan was to start from coimbatore cross ooty/gudalur of nilgiris and head to waynad in kerala. From waynad we planned to enter karnataka and climb up to Madikeri(coorg). Then the route would pass to Mysore and go towards MM hills. On the 4th day the plan was to to go to coimbatore via Mettur. This plan was demanding physically and mentally , but the only change we anticipated , failure to reach MM hills on 3rd day and then doing the hills on 4th day and reaching coimbatore which would increase the 4th day distance to 270km.
+
+I﻿f you want consultation on bike packing , you can refer the below website 
+
+[www.cyclinginindia.com](http://www.cyclinginindia.com/)
 
 **D﻿ay 1 - Coimbatore to Pattavayal**
 
@@ -73,8 +73,6 @@ However, it’s not the way it seems, post 30 kms the route to mysore is a rolli
 
 Anyways we rode our best and reached mysore. The distance to mysore was not much (118km), but it did challenge us. We ended our ride on the 3rd day. Next day we took comfortable Bus ride to Coimbatore, convinced more the suffering on cycle was comfortable than the bus ride.
 
-
-
 ![](/images/uploads/screenshot-2023-11-06-at-11.28.41-am.png)
 
-[www.cyclinginindia.com](http://www.cyclinginindia.com/)
+[](http://www.cyclinginindia.com/)
