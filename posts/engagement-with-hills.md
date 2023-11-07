@@ -25,11 +25,11 @@ And with same confidence we started and within 1km got a puncture. We lost close
 
 ![](/images/uploads/coonor.jpg)
 
-From here we headed towards Ooty which was about 20km more. Initial 2-3 km after a breakfast was little slow but eventually, we got momentum. Around 12.15 at Ooty we went for lunch and post that towards Guadalur. The road towards gudalur is not in great condition but the views compensate for that.
+From here we headed towards Ooty which was about 20km more. Initial 2-3 km after the breakfast was little slow but eventually, we got momentum. Around 12.15 at Ooty, we went for lunch and post that towards Guadalur. The road towards gudalur is not in great condition but the views compensate for that.
 
 As per plan of day 1 we had reached gudalur at 4.45 itself and was about to call it off for the day. This is where Shravanan suggested to go ahead until 7 pm and cover more distance so that next day distance can be reduced as the next day was going to be hilly as well.
 
-We rode another 20-25km and took off at beautiful village of pattavayal. Gudalur to pattavayal comprises of small hills but magnificent views. The best part was our stay which just outside the entry of Waynad forest reserve.
+We rode another 20-25km and took off at beautiful village of pattavayal. Gudalur to pattavayal comprises of small hills but magnificent views. The best part was our stay which was just outside the entry of Waynad forest reserve. 
 
 ![](/images/uploads/screenshot-2023-10-18-at-1.46.13-pm.png)
 
@@ -39,11 +39,7 @@ We rode another 20-25km and took off at beautiful village of pattavayal. Gudalur
 
 **Day 2- Pattavayal to Madikeri(Coorg)**
 
-We were aware of the route from here to waynaad. Since it was going to be 10km within the forest which has lot of Animal activity, we started out late from usual (7 am).
-
-This 10km of stretch only had greens around and tribal homes.
-
-Around 8 am we took halt for breakfast in waynaad (kerala). Officially now we had crossed tamilnadu and entered in kerala.
+We were aware of the route from here to waynaad. Since it was going to be 10km within the forest which has lot of Animal activity, we started out late from usual (7 am). This 10km of stretch only had greens and tribal homes. Around 8 am we took halt for breakfast in waynaad (kerala). Officially, now we had crossed tamilnadu and entered in kerala.
 
 A good local breakfast and we were off to our next destination Madikeri(Coorg, karnataka) and towards our next milestone Kutta(border of Kerala and Karnataka).
 
@@ -53,7 +49,7 @@ A good local breakfast and we were off to our next destination Madikeri(Coorg, k
 
 The distance and climbs started taking toll on us also the road conditions were not very supportive. On top of all this when we entered karnataka , sharavanan started feeling uneasy probably because of tea.
 
-Coorg district is known for its coffee plantations and forest stretches. The ride was getting difficult but because of constant rains, we kept recovering easily on the go. It was not possible to avoid late evening ride even if we had ridden at 30kmph. Because last 8km uphill to Madikeri was still yet to come, hence we slowed down to save our energy.
+Coorg district is known for its coffee plantations and forest stretches. The ride was getting difficult but because of constant rains, we kept recovering easily on the go. It was not possible to avoid late evening ride even if we had rode at 30kmph because last 8km uphill to Madikeri was still yet to come, hence we slowed down to save our energy. 
 
 T﻿he decision on previous day to ride more than the target distance helped us, else it would have been late night for us today to reach Madikeri. The climbs to Madikeri were easy not challenging, but the last 3km kills you. I had not gone on my lowest gears on any hills until now.
 
@@ -69,9 +65,9 @@ Day 3- Madikeri to Mysore
 
 We didn’t get much of sleep on this day. Today we had planned to reach mysore and end the ride. Since we were on hill station, our initial thoughts were a fast ride to mysore considering the route will be majorly downhills.
 
-However, it’s not the way it seems, post 30 kms the route to mysore is a rolling route where there are long straight uphill and downhill. There were few handy flat sections.
+However, it’s not the way it seems, post 30 kms the route to mysore is a rolling route where there are long straight uphill and downhill. There are few handy flat sections.
 
-Anyways we rode our best and reached mysore. The distance to mysore was not much (118km), but it did challenge us. We ended our ride on the 3rd day. Next day we took comfortable Bus ride to Coimbatore, convinced more the suffering on cycle was comfortable than the bus ride.
+Anyways we rode our best and reached mysore. The distance to mysore was not much (118km), but it did challenge us. We ended our ride on the 3rd day. Next day we took comfortable Bus ride to Coimbatore, convinced with the thought suffering on cycle was comfortable than the bus ride.
 
 ![](/images/uploads/screenshot-2023-11-06-at-11.28.41-am.png)
 
