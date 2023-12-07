@@ -17,7 +17,6 @@ Finally, the day arrived we took our bikes in car to the point which was 10 km a
 
 On a weekday the roads are less crowded and if it is winter month, then the climbs become more attractive. Moreover, there are 2-3 good waterfalls on route which can keep you motivated.
 
-
 ![](/images/uploads/07148a0a-e405-4bd3-8838-865d729b5baa.jpg)
 
 ![](/images/uploads/downhill-kotagiri.jpg)
@@ -36,4 +35,6 @@ We decided to attempt dodabetta – the highest point of Tamilnadu. Good Roads, 
 
 ![](/images/uploads/img_2742.jpg)
 
-This was just a day ride, and I have been to the place multiple times. The ride became interesting when we decided to take the downhill route via kotagiri. The below pictures speak for itself.The showstopper for me was spotting an Elephant in wild .
+This was just a day ride, and I have been to the place multiple times. The ride became interesting when we decided to take the downhill route via kotagiri.The showstopper for me was spotting an Elephant in wild .
+
+![](/images/uploads/elephant.jpg)
