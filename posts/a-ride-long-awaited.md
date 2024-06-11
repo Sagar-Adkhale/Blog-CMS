@@ -19,7 +19,7 @@ Initial plan had 2 cyclist Myself and Sharvanan and later Karthik joined. The on
 
 ![](/images/uploads/1.jpeg)
 
-![](/images/uploads/whatsapp-image-2024-04-28-at-4.53.53-pm.jpeg)
+![](/images/uploads/whatsapp-image-2024-04-28-at-4.53.50-pm.jpeg)
 
 ![](/images/uploads/whatsapp-image-2024-06-11-at-11.20.35-am-1-.jpeg)
 
