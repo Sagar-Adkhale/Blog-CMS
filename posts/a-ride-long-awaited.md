@@ -7,15 +7,15 @@ thumbnail: /images/uploads/whatsapp-image-2024-04-28-at-4.53.53-pm-1-.jpeg
 ---
 For last 2 years I am intrigued by the hills, hairpin Bends and wilderness around Coimbatore. I have been riding to ooty and other hills really clocking some good climbing. While we as cyclist always look out for new routes, there was this Route in the Nilgiris hills which looked challenging, and more scenic since the area is not really exposed to commercial tourism.
 
+Finally, after multiple failed plans we finalized a day to go for a single day ride to “manjoor” and return via forests of Mulli-Geddai which apparently has 43 hairpin bends within 15km.
+
+Initial plan had 2 cyclist Myself and Sharvanan and later Karthik joined. The only difference was Karthik wanted to Ride to ooty. Our destination is on the same route, 25km before ooty we were supposed part aways. Sharavnan and I started plotting to get Karthik along with us which did work with some complaints here and there. Enjoy the pictures below.
+
 ![](/images/uploads/whatsapp-image-2024-06-11-at-11.20.35-am.jpeg)
 
 ![](/images/uploads/whatsapp-image-2024-04-28-at-4.53.54-pm.jpeg)
 
 ![](/images/uploads/whatsapp-image-2024-06-11-at-11.20.36-am.jpeg)
-
-Finally, after multiple failed plans we finalized a day to go for a single day ride to “manjoor” and return via forests of Mulli-Geddai which apparently has 43 hairpin bends within 15km.
-
-Initial plan had 2 cyclist Myself and Sharvanan and later Karthik joined. The only difference was Karthik wanted to Ride to ooty. Our destination is on the same route, 25km before ooty we were supposed part. Sharavnan and I started plotting to get Karthik along with us which did work with some complaints here and there.
 
 ![](/images/uploads/1.jpeg)
 
