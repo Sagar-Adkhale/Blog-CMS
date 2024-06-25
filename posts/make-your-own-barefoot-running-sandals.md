@@ -1,9 +1,9 @@
 ---
-title: Make your Own Barefoot Running Sandals
+title: Make your own Barefoot Running Sandals
 author: Tarique Ansari
 date: 2024-06-25T12:25:52.152Z
 sliderImg: /images/uploads/final.jpg
-thumbnail: /images/uploads/look.jpg
+thumbnail: /images/uploads/final.jpg
 ---
 A﻿s much as I have enjoyed
 
