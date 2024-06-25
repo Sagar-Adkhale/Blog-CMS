@@ -5,8 +5,6 @@ date: 2024-06-25T12:25:52.152Z
 sliderImg: /images/uploads/final.jpg
 thumbnail: /images/uploads/final.jpg
 ---
-A﻿s much as I have enjoyed
-
 Running sandals have made a name and enjoys a separate customer base from recreational runners to some semi-professional runners. The running sandals have made more mark in the trail running with and aspect of being close to the nature/earth.
 
 The revolution all started when Christopher mcdougall wrote Born to Run and introduced the whole world to the Great Running tribe ‘Tarahumara’ tribe. There are various articles present on them and runners world has quite an exciting account on them. The tribe people would wear an handmade sandals(chappals) which had sole from tyres and just laces for tying it to the foot. This tribe can run 200-300kms in a day easily and not get tired. To cut short, these introduced the barefoot revolution and many companies took a route of manufacturing designed barefoot sandals.
