@@ -13,9 +13,9 @@ export default function AboutUs() {
           <Nav.Link className="topListItem" href="/">
             DIARIES
           </Nav.Link>
-          <Nav.Link className="topListItem" href="/shop">
+          {/* <Nav.Link className="topListItem" href="/shop">
             SHOP
-          </Nav.Link>
+          </Nav.Link> */}
           <Nav.Link className="topListItem" href="/contact">
             CONTACT US{" "}
           </Nav.Link>
