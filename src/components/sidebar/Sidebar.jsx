@@ -11,7 +11,7 @@ export default function Sidebar() {
           alt=""
         />
         <div className="sidebarSlogan">
-        Guts is bikepacking solution which intends to add to the culture of bike touring in Country. Our philosophy is very much aligned to the quote by Ernest Hemingway “It is by riding a bicycle that you learn the contours of a country best, since you have to sweat up the hills and coast down them.”
+        My Name is Tarique Ansari. I consider myself as sports enthusiast involved competitively and leisurely. I dedicate my time between work, family and sports on daily basis. The sports I have been doing are Athletics (distance running, Mid distance(3k,5k,10k) , Endurance cycling, Table tennis and basketball This site is dedicated to the cycling blogs , my views and different ways where one can work with me on improving ones  fitness or sports performance.
         {/* There are many bike sayings about bike popularity and biking, but one of my favorites saying about biking is “Learn to ride a bike. You will not regret it if you live.”   */}
         </div>
       </div>
