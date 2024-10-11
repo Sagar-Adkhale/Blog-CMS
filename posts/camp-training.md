@@ -5,8 +5,6 @@ date: 2024-10-11T11:57:59.150Z
 sliderImg: /images/uploads/cover.jpeg
 thumbnail: /images/uploads/picture-1.png
 ---
-
-
 The camp concept training is more around fixed period of time ranging from 1-3 months . These trainings are generally around specific sports. By the end of the camp training a significant improvement in the performance of the Athlete can be observed. For example if its basketball – Vertical jumps, ball handling skills will improve etc . If its Athletics speed improvements can be experienced.
 Methodology of camp trainings are on very simple principles
 
@@ -16,11 +14,9 @@ Methodology of camp trainings are on very simple principles
 
    Can this methodology be twisted and implemented by working professionals and improve to become better ? The answer is very much **YES**
 
-![](/images/uploads/cover-1.jpeg)
+![](/images/uploads/cover-5.jpeg)
 
-Therefore I created a routine for myself for the month of September, However I didn’t created the whole month schedule in one go. There is no hard and fast rule that the whole month has to be planned, but there has to be some basic principles which will define your weekly schedule.
-
-Below were the some of the basic principles I followed
+Therefore I created a routine for myself for the month of September, However I didn’t created the whole month schedule in one go. There is no hard and fast rule that the whole month has to be planned, but there has to be some basic principles which will define your weekly schedule. Below were the some of the basic principles I followed
 
 * 2 workout sessions in a day or one session equivalent to 2 session effort
 * My focus is always Running and cycling so the schedule should incorporate more of it in terms of mileage and type of training
@@ -30,13 +26,9 @@ Below were the some of the basic principles I followed
 * Even tired ,stick to the schedule – The trick to do that is improve your recovery
 * Have a must Rest day 
 
-  ![](/images/uploads/cover-5.jpeg)
-
 The sessions are segregated in segments where the each segment can range from 7-9 days of workouts. To understand this better refer below table.
 
-I would write down my sessions on whiteboard which will have what I want to do for the coming 2-3 days. There is no larger than life thinking behind this. It is to follow a routine and trying to stick to the principles above.
-
-Below is snapshot of segment 1 which as good mix of cycling running 
+I would write down my sessions on whiteboard which will have what I want to do for the coming 2-3 days. There is no larger than life thinking behind this. It is to follow a routine and trying to stick to the principles above. Below is snapshot of segment 1 which as good mix of cycling running 
 
 ![](/images/uploads/segment-1.png)
 
