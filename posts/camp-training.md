@@ -26,21 +26,13 @@ Therefore I created a routine for myself for the month of September, However I d
 * Even tired ,stick to the schedule – The trick to do that is improve your recovery
 * Have a must Rest day 
 
-The sessions are segregated in segments where the each segment can range from 7-9 days of workouts. To understand this better refer below table.
-
-I would write down my sessions on whiteboard which will have what I want to do for the coming 2-3 days. There is no larger than life thinking behind this. It is to follow a routine and trying to stick to the principles above. Below is snapshot of segment 1 which as good mix of cycling running 
-
 ![](/images/uploads/seg1.png)
 
-![](/images/uploads/segment-1.png)
-
-If you notice the segment 2, I have struggled to keep momentum in first few days and did only one session, but then I made up to it during the later part of the segment. Also, there was a considerable improvement on the 10km run on 16th which was not even planned. (Pace: 4.20min/km) which indicates the training so far has helped
-
-![](/images/uploads/segment-2.png)
+![](/images/uploads/seg-2.png)
 
 Segment 3 started with a light 20km cycling because I could not ride more. To compensate for the loss ,I had Table tennis game during evening. This segment had good sessions around speed work.
 
-![](/images/uploads/segment-3.png)
+![](/images/uploads/seg-3.png)
 
 If you notice I have missed some principles defined earlier of the article, like having multiple sessions , every week one speed session. But consciously I have tried to compensate the same in subsequent days. It’s important here to keep putting effort to stay consistent to the plan else desired results will not be achieved.
 
@@ -56,7 +48,7 @@ In this speed work the motive was to keep minimal rest period between intervals.
 
 During the last segment of the Training I was travelling to hills for a vacation. So I had thought of training in the hills at least 1 session. Started with long slow trail run of 15km at very easy pace. Also, I managed to do some speed session on the hills.
 
-![](/images/uploads/segment-4.png)
+![](/images/uploads/seg-4.png)
 
 With this I ended the part 1 of the camp training workout mode. The next few days the training will be on but not in very objective or goal oriented mode. However, I will publish the details in the part 2 of the same.
 
