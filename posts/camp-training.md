@@ -26,7 +26,7 @@ Therefore I created a routine for myself for the month of September, However I d
 * Even tired ,stick to the schedule – The trick to do that is improve your recovery
 * Have a must Rest day 
 
-![](/images/uploads/seg1.png)
+![](/images/uploads/seg-1.png)
 
 ![](/images/uploads/seg-2.png)
 
