@@ -30,6 +30,8 @@ The sessions are segregated in segments where the each segment can range from 7-
 
 I would write down my sessions on whiteboard which will have what I want to do for the coming 2-3 days. There is no larger than life thinking behind this. It is to follow a routine and trying to stick to the principles above. Below is snapshot of segment 1 which as good mix of cycling running 
 
+![](/images/uploads/seg1.png)
+
 ![](/images/uploads/segment-1.png)
 
 If you notice the segment 2, I have struggled to keep momentum in first few days and did only one session, but then I made up to it during the later part of the segment. Also, there was a considerable improvement on the 10km run on 16th which was not even planned. (Pace: 4.20min/km) which indicates the training so far has helped
