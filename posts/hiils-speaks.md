@@ -1,5 +1,5 @@
 ---
-title: Hiils speaks
+title: POV of a Cyclist
 author: Tarique ansari
 date: 2024-11-13T11:27:13.159Z
 sliderImg: /images/uploads/cover.jpg
@@ -44,6 +44,10 @@ At this point we were tired, my bike had break issues and then was still 45 kms 
 ![](/images/uploads/img_20241102_081742.jpg)
 
 ![](/images/uploads/img_20241101_172352.jpg)
+
+![](/images/uploads/screenshot-2024-11-13-at-5.01.45 pm.png)
+
+![](/images/uploads/whatsapp-image-2024-11-15-at-11.30.06-am.jpeg)
 
 **D﻿ay 4 (Theni -Palladam- Coimbatore)**
 
