@@ -3,11 +3,9 @@ title: Kodaikanal-Detour
 author: Tarique Ansari
 date: 2025-09-19T15:45:01.141Z
 sliderImg: /images/uploads/main.jpeg
-thumbnail: /images/uploads/whatsapp-image-2025-09-19-at-21.24.59.jpeg
+thumbnail: /images/uploads/view.jpeg
 ---
 ![](/images/uploads/cover.jpg)
-
-
 
 We had planned a 3-day tour to the princess of hills – **Kodaikanal,** covering 460kms going across different hills around Kodaikanal.
 
@@ -25,6 +23,8 @@ Finally exhausted, we finish our day 1 at the town of **Perumalmalai,** which is
 
 **Day 2**
 
+![](/images/uploads/slide.jpeg)
+
 Days on hills are pleasant in summers. Hence, we planned detour of Kodaikanal and then reach another beautiful town called **Thandigudi** .
 
 Distance-wise, things look okay since today the distance is just going to be 80km with just hill rides. However, on a tour one should not be very stringent about plans because it changes. During evening hours from 4 to 6 pm rain god gave us the surprise of continuous showers, adding to it at **Thandigudi** because of a film shoot; all resorts, cottages, and dormitories were booked. After trying our luck until 6.30 pm and failing to secure a stay for the night, we decided to ride down the hill and reach the town **Dindigul** in the plains, where we could stay.
@@ -41,4 +41,4 @@ Today was going to be a no-brainer ride of 160km, straight on plains to Coimbato
 
 ![](/images/uploads/5.png)
 
-![](/images/uploads/view.jpeg)
+![](/images/uploads/whatsapp-image-2025-09-19-at-21.24.59.jpeg)
