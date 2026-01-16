@@ -3,7 +3,7 @@ title: Camp Training
 author: Tarique ansari
 date: 2024-10-11T11:57:59.150Z
 sliderImg: /images/uploads/cover.jpeg
-thumbnail: /images/uploads/picture-1.png
+thumbnail: /images/uploads/screenshot-2024-10-11-at-5.59.35 pm.png
 ---
 The camp concept training is more around fixed period of time ranging from 1-3 months . These trainings are generally around specific sports. By the end of the camp training a significant improvement in the performance of the Athlete can be observed. For example if its basketball – Vertical jumps, ball handling skills will improve etc . If its Athletics speed improvements can be experienced.
 Methodology of camp trainings are on very simple principles
