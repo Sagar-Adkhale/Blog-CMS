@@ -5,7 +5,7 @@ date: 2025-09-19T15:45:01.141Z
 sliderImg: /images/uploads/main.jpeg
 thumbnail: /images/uploads/view.jpeg
 ---
-![](/images/uploads/cover.jpg)
+
 
 We had planned a 3-day tour to the princess of hills – **Kodaikanal,** covering 460kms going across different hills around Kodaikanal.
 
@@ -18,6 +18,10 @@ By 12.30 pm we are at the very first hairpin bend to Kodaikanal with 132 km alre
 We went fine till the first 7 km, and then we hit the wall. The frequency of breaks increases, and we hit a realisation that day 1 is not going to be easy. We continue with depleted energies and reach a small shack to refuel ourselves. After having the traditional **rice rasam,** we continue our climbs again. At this stage it’s getting dark, so at every break we walked to save time.
 
 Finally exhausted, we finish our day 1 at the town of **Perumalmalai,** which is 10 km before **Kodaikanal,** at around 7.30 pm by covering 172 km for the day.
+
+![](/images/uploads/cover.jpg)
+
+
 
 ![](/images/uploads/2nd.png)
 
