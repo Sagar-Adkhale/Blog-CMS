@@ -99,7 +99,11 @@ I had planned to go to namchi and then to Darjeeling via Jorethang. 
 
 All beautiful towns with extreme steepness either uphill or downhill no section was flat today. I managed to reach Jorethang and then started towards Darjeeling. This section I will never try again on a cycle.
 
+![](/images/uploads/untitled.jpg)
+
 There were so many moments where I just sat in silence appreciating the view and also realising the mistake off taking this road.  Somehow with all the struggles of riding I ended up the ride 8km before Darjeeling in at a wonderful homestay. 
+
+![](/images/uploads/untitled-2.jpg)
 
 Mountains make you humble , my confidence of riding in Sikkim almost had crumbled before I found the stay.
 
