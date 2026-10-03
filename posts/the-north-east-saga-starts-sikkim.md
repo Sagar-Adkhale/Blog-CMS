@@ -7,6 +7,8 @@ thumbnail: /images/uploads/img_0356.heic
 ---
 **Day 1**
 
+Sikkim has been a wonderful and literate state. Its a epitome of how civilized a society can be when it comes down to cleanliness and management.
+
 ![](/images/uploads/day1_1st-pic.jpg)
 
 ![](/images/uploads/img_0384.heic)
@@ -63,13 +65,21 @@ Singtam is a small town which closes by 8pm. I had to eat food and one person wh
 
 Called it a day after the great dinner.
 
-Day 3 
+Day 3 -Singtam to Ravangla 
 
-Singtam to Ravangla 
+
+
+![](/images/uploads/img_0459.heic)
 
 Distance today was not much and hence started late. Eventually with some hurdles of rain , a wrong turns here and there , I came on right road towards Ravangla (small hill station in south Sikkim) . Everything was perfect about today , beautiful roads, terrain , climbs, waterfalls all across, good food and lots of birds. Though the distance was short however the elevation was 2300m. 
 
+![](/images/uploads/day-3-1.jpg)
+
 I reached the place in afternoon itself , liked  it so much that decided to stay there for a night.
+
+![](/images/uploads/img_0504.heic)
+
+![](/images/uploads/img_0488.heic)
 
 Day 4- Ravangla to Darjeeling 
 
