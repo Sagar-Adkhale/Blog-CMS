@@ -5,7 +5,7 @@ date: 2026-10-03T06:21:48.870Z
 sliderImg: /images/uploads/img_0372.heic
 thumbnail: /images/uploads/img_0356.heic
 ---
-**day 1**
+**Day 1**
 
 ![](/images/uploads/day1_1st-pic.jpg)
 
