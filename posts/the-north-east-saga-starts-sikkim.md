@@ -11,21 +11,15 @@ With all the excitement to explore this new terrain I started my day at 6 am. No
 
 After an hour with heavy rains converted to drizzle and the forest around, got me in the groove of riding. Here the sun rises early by 5.15 am the darkness goes away which also means the heat starts hitting you sooner than you expect. Riding alongside of high currents teesta river can be very big distraction. Anyways I kept riding through the smaller hills, heat , rains and eventually reached a place known as singtam, which is gateway to many hilltops. Until singtam one is at rolling route with some smaller hills around areas of sevoke , rangpo. From singtam it’s a standard uphill ride to Gangtok (at-least that’s what I thought). The constant climbs of gradient 6-8% continues till Ranipool.After this point it’s just 12km of climb to Gangtok 
 
-
-
 Now something different was going to happen. The gradient jumped to 12-16%. After the very first turn on this route , I got down and realised this going to be very very difficult. Lot of thoughts was going if I can climb this. I struggled managed by riding,walking and slowly moving ahead. Lot of Forces stations in Sikkim and one of the lad told me its impossible for me to ride at this climb. I took it as challenge(apan ka ego hurt kiya ladke ne) and continued next 3km in lowest gears non stop and later realising not to take things on ego 😀. 
 
 Take break eat something.
-
-
 
 Eventually made to Gangtok by 7.10.
 
 Sikkim is such a wonderful state. No litter ,no honking, such cultured folks and great civic sense. That’s how all state and cities should be.
 
 Gangtok is just 1600-1700m from sealevel. However, the total elevation which I had rode by now was 2500m in just 110km.
-
-
 
 Day 2-
 
@@ -41,19 +35,13 @@ Singtam is a small town which closes by 8pm. I had to eat food and one person wh
 
 Called it a day after the great dinner.
 
-
-
 Day 3 
 
 Singtam to Ravangla 
 
-
-
 Distance today was not much and hence started late. Eventually with some hurdles of rain , a wrong turns here and there , I came on right road towards Ravangla (small hill station in south Sikkim) . Everything was perfect about today , beautiful roads, terrain , climbs, waterfalls all across, good food and lots of birds. Though the distance was short however the elevation was 2300m. 
 
 I reached the place in afternoon itself , liked  it so much that decided to stay there for a night.
-
-
 
 Day 4- Ravangla to Darjeeling 
 
@@ -63,21 +51,13 @@ I had planned to go to namchi and then to Darjeeling via Jorethang. 
 
 All beautiful towns with extreme steepness either uphill or downhill no section was flat today. I managed to reach Jorethang and then started towards Darjeeling. This section I will never try again on a cycle.
 
-
-
 There were so many moments where I just sat in silence appreciating the view and also realising the mistake off taking this road.  Somehow with all the struggles of riding I ended up the ride 8km before Darjeeling in at a wonderful homestay. 
 
 Mountains make you humble , my confidence of riding in Sikkim almost had crumbled before I found the stay.
 
-
-
 Got invited to bday celebration of a family .
 
-
-
 Day 5 Darjeeling to Siliguri 
-
-
 
 Morning was pleasant , legs were good , body had recovered and I was ready to tackle next 8km of steep uphill.
 
@@ -93,16 +73,10 @@ Had no other option than calling the ride off.
 
 Though there was a garage nearby but they could not fix, hence decided to call my friend Ayon to pick me up in the mean time spent time at garage by admiring such young boys coming far from house to earn livelihood with so much hard work. 22 year old boys living by self managing their garage , cooking , collecting drinking water all by self in that small garage itself.
 
-
-
 This tour was comparatively tough than any of my previous tours. All the tours o have met people who have been good to me and also had good conversations around their life, their state politics challenges etc. religion caste impact. 
 
 I like this conversations because it gives me reality which can be very different compared to beautiful terrains of place.
 
-
-
 Anyways Sikkim will hit you differently, the culture the people , the care for their state , importance of cleanliness and not being biased towards people in the name of caste religion (not great examples across country).
-
-
 
 All leads to one source which is a good education.
