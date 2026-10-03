@@ -13,7 +13,11 @@ In all my bloga and rides , I have talked about how difficult or easy the ride h
 
 Below are the images of some people who I had captured.
 
+
+
 ![](/images/uploads/untitled-2.jpg)
+
+![](/images/uploads/food.jpg)
 
 ![](/images/uploads/day1_1st-pic.jpg)
 
