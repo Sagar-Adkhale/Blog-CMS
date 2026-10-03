@@ -87,7 +87,13 @@ I reached the place in afternoon itself , liked  it so much that decided to sta
 
 Day 4- Ravangla to Darjeeling 
 
+
+
+![](/images/uploads/img_0518.heic)
+
 Today was the day when the bicycle brake gave up and pushed me towards mixing lot downhill walking. Started the day with little more climbs but amazing views all around.
+
+![](/images/uploads/img_0545.heic)
 
 I had planned to go to namchi and then to Darjeeling via Jorethang. 
 
