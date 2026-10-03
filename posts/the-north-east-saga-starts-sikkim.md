@@ -35,7 +35,7 @@ Take break eat something.
 
 Eventually made to Gangtok by 7.10.
 
-![](/images/uploads/untitled-2.jpg)
+![](/images/uploads/img_0392.heic)
 
 Sikkim is such a wonderful state. No litter ,no honking, such cultured folks and great civic sense. That’s how all state and cities should be.
 
