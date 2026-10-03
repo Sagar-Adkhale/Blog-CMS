@@ -111,15 +111,29 @@ Got invited to bday celebration of a family .
 
 Day 5 Darjeeling to Siliguri 
 
+
+
+![](/images/uploads/img_0561.heic)
+
 Morning was pleasant , legs were good , body had recovered and I was ready to tackle next 8km of steep uphill.
 
 With Good breakfast, got on the bike and rode for next 2-3 kms before the mountain winning over me.
 
 Retreated to walk , cycle wherever I can and managed next 2-3 kms before hitting top of Darjeeling town. From there it was fairly flat for next 5-6kms. I didn’t stopped at Darjeeling and decide. To continue towards a place called as mirik.
 
+![](/images/uploads/img_0591.heic)
+
 The ride was easy from this point climbs were easy and at higher elevation than Darjeeling. After crossing a beautiful pine forest and also crossing Nepal border , started moving downhill. Today’s challenge was downhill with poor brakes.
 
+![](/images/uploads/img_0577.heic)
+
+![](/images/uploads/img_0605.heic)
+
 However continued walking cycling where ever possible and made to next stop for food. Ate whatever was available at the shop and started moving towards next milestone. It was surprising to see I had come down by 65-70km however still at elevation of 1400m. What it meant was I had left with another 30km to Siliguri which meant extreme downhills. Could ride another 10km before the rear brake cable came off.
+
+![](/images/uploads/img_0582.heic)
+
+![](/images/uploads/img_0604.heic)
 
 Had no other option than calling the ride off.
 
