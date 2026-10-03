@@ -29,8 +29,6 @@ Take break eat something.
 
 Eventually made to Gangtok by 7.10.
 
-
-
 ![](/images/uploads/untitled-2.jpg)
 
 Sikkim is such a wonderful state. No litter ,no honking, such cultured folks and great civic sense. That’s how all state and cities should be.
@@ -71,8 +69,6 @@ Called it a day after the great dinner.
 
 Day 3 -Singtam to Ravangla 
 
-
-
 ![](/images/uploads/img_0459.heic)
 
 Distance today was not much and hence started late. Eventually with some hurdles of rain , a wrong turns here and there , I came on right road towards Ravangla (small hill station in south Sikkim) . Everything was perfect about today , beautiful roads, terrain , climbs, waterfalls all across, good food and lots of birds. Though the distance was short however the elevation was 2300m. 
@@ -86,8 +82,6 @@ I reached the place in afternoon itself , liked  it so much that decided to sta
 ![](/images/uploads/img_0488.heic)
 
 Day 4- Ravangla to Darjeeling 
-
-
 
 ![](/images/uploads/img_0518.heic)
 
@@ -111,8 +105,6 @@ Got invited to bday celebration of a family .
 
 Day 5 Darjeeling to Siliguri 
 
-
-
 ![](/images/uploads/img_0561.heic)
 
 Morning was pleasant , legs were good , body had recovered and I was ready to tackle next 8km of steep uphill.
@@ -133,7 +125,7 @@ However continued walking cycling where ever possible and made to next stop for 
 
 ![](/images/uploads/img_0582.heic)
 
-![](/images/uploads/img_0604.heic)
+![](/images/uploads/untitled-3.jpg)
 
 Had no other option than calling the ride off.
 
