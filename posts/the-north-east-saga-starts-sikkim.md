@@ -2,7 +2,7 @@
 title: The North east saga starts- Sikkim
 author: Tarique
 date: 2026-10-03T06:21:48.870Z
-sliderImg: /images/uploads/07148a0a-e405-4bd3-8838-865d729b5baa.jpg
+sliderImg: /images/uploads/img_0372.heic
 thumbnail: /images/uploads/1.jpeg
 ---
 **day 1**
