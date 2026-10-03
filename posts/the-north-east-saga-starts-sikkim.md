@@ -23,6 +23,10 @@ Take break eat something.
 
 Eventually made to Gangtok by 7.10.
 
+
+
+![](/images/uploads/untitled-2.jpg)
+
 Sikkim is such a wonderful state. No litter ,no honking, such cultured folks and great civic sense. That’s how all state and cities should be.
 
 Gangtok is just 1600-1700m from sealevel. However, the total elevation which I had rode by now was 2500m in just 110km.
