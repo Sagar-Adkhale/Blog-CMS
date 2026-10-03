@@ -5,15 +5,11 @@ date: 2026-10-03T06:21:48.870Z
 sliderImg: /images/uploads/img_0372.heic
 thumbnail: /images/uploads/img_0356.heic
 ---
-**Day 1**
+**Experience**
 
-Sikkim has been a wonderful and literate state. It's a epitome of how civilised a society can be when it comes down to cleanliness and management.
+Sikkim has been a wonderful and literate state. It's a epitome of how civilised a society can be when it comes down to cleanliness and management.I have been riding for many years, and if there is one thing cycling teaches you, it is that the geography of a place is only half the story. The other half is always written by the people you meet along the way. Over the years, I have crossed paths with countless strangers who left an impression on me, but Sikkim hit differently.
 
-In all my bloga and rides , I have talked about how difficult or easy the ride has been and mentioning about the place a little bit. However here before i talk about ride route, climbs etc, its important to appreciate the state of sikkim for the way it is. The people and their helpful nature. I have been riding for good amount of years and have always met people while riding , who I had remember for long. Sikkim was no different but with more impact.
-
-Below are the images of some people who I had captured.
-
-
+There is an innate, quiet kindness woven into the fabric of this state.Long before the landscapes take your breath away, the warmth of the people steals your heart.
 
 ![](/images/uploads/untitled-2.jpg)
 
@@ -23,9 +19,19 @@ Below are the images of some people who I had captured.
 
 ![](/images/uploads/img_0384.heic)
 
-With all the excitement to explore this new terrain I started my day at 6 am. Not even 5 min in the ride and it poured heavily. Eventually could restart the ride by 6.45 drenched in rains.
+My first morning began with a quick reminder of how unpredictable the mountains can be. Filled with excitement to explore this new terrain, I rolled out at **6:00 AM**. Not even five minutes into the pedal strokes, the sky opened up and it poured heavily. I had no choice but to wait it out. By **6:45 AM**, I restarted—already completely drenched.
 
-After an hour with heavy rains converted to drizzle and the forest around, got me in the groove of riding. Here the sun rises early by 5.15 am the darkness goes away which also means the heat starts hitting you sooner than you expect. Riding alongside of high currents teesta river can be very big distraction. Anyways I kept riding through the smaller hills, heat , rains and eventually reached a place known as singtam, which is gateway to many hilltops. Until singtam one is at rolling route with some smaller hills around areas of sevoke , rangpo. From singtam it’s a standard uphill ride to Gangtok (at-least that’s what I thought). The constant climbs of gradient 6-8% continues till Ranipool.After this point it’s just 12km of climb to Gangtok
+An hour later, the heavy downpour subsided into a steady drizzle. The sun here rises early. By **5:15 AM**, the darkness is completely gone, which brings a hidden challenge: the mountain heat starts hitting you much sooner than you expect.
+
+As I pushed forward, the **Teesta River** roared alongside the road. Its high, wild currents are an absolute spectacle—and a massive distraction when you are trying to keep your eyes on the tarmac! 
+
+![](/images/uploads/img_0354.heic)
+
+Maintaining a steady rhythm through the smaller hills, eventually, I rolled into **Singtam**, a bustling town known as the gateway to many of Sikkim's famous hill stations. Up until Singtam, the route from areas like **Sevoke** and **Rangpo** is mostly rolling terrain with manageable, smaller hills. From Singtam onwards, the map indicated a standard uphill ride to **Gangtok**. At least, that is what I thought.
+
+![](/images/uploads/img_0373.heic)
+
+The reality was a rude awakening. A relentless, constant climb with gradients hovering between **6% to 8%**stretched all the way to **Ranipool**. And once you clear Ranipool? You are left facing the final, brutal **12-kilometer** ladder straight up to Gangtok.
 
 ![](/images/uploads/img_0382.heic)
 
