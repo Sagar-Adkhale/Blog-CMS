@@ -33,9 +33,19 @@ Gangtok is just 1600-1700m from sealevel. However, the total elevation which I h
 
 Day 2-
 
+![](/images/uploads/day-2.jpg)
+
 After yesterday’s reality check I had realisation that this not going to be easy tour. Today’s plan was do go forward above Gangtok and do a loop to singtam.
 
-At 5.30 am I was fresh and now rode the climbs pretty well with all my luggage on bike. Had a good breakfast after 7km and continued ahead. The ride was smooth , scenic and with very steep ascents and descents. By afternoon covered some 55 odd kms and stopped for lunch. Now from this point the next milestone was just some 50 odd kms but would be going downhill so took a good 1 hr rest. This is where things went wrong. The road I had taken was via a place called dekchu, a landslide prone area. First 10-12km had broken roads but was still okay to manage on cycle. Locals informed me that 15 km of road is really bad. A truck driver stopped to ask me if I want lift till singtam. I said ‘NO’ and regretted after 15min. This bad road was no road it was rocky patches everywhere. I tried riding as much as possible along with walking. Some people admired , motivated me and some offered help. One thing which has worked out for me over the years of cycling is I know when to stop and when to push. By 6.15 it got really dark but I had crossed this rocky patch by now  and came on good road towards singtam. One gentleman stopped motorbike and argued with me how can I cycle in Sikkim with only one light. Such is care of people here for you.
+![](/images/uploads/img_0397.heic)
+
+At 5.30 am I was fresh and now rode the climbs pretty well with all my luggage on bike. Had a good breakfast after 7km and continued ahead. The ride was smooth , scenic and with very steep ascents and descents. By afternoon covered some 55 odd kms and stopped for lunch.
+
+![](/images/uploads/img_0440.heic)
+
+![](/images/uploads/img_0442.heic)
+
+Now from this point the next milestone was just some 50 odd kms but would be going downhill so took a good 1 hr rest. This is where things went wrong. The road I had taken was via a place called dekchu, a landslide prone area. First 10-12km had broken roads but was still okay to manage on cycle. Locals informed me that 15 km of road is really bad. A truck driver stopped to ask me if I want lift till singtam. I said ‘NO’ and regretted after 15min. This bad road was no road it was rocky patches everywhere. I tried riding as much as possible along with walking. Some people admired , motivated me and some offered help. One thing which has worked out for me over the years of cycling is I know when to stop and when to push. By 6.15 it got really dark but I had crossed this rocky patch by now  and came on good road towards singtam. One gentleman stopped motorbike and argued with me how can I cycle in Sikkim with only one light. Such is care of people here for you.
 
 Disclaimer: I really carry single piece light but really stronger than 2-3 bicycle lights together. This is to reduce luggage to carry.
 
