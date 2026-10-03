@@ -7,6 +7,8 @@ thumbnail: /images/uploads/img_0356.heic
 ---
 **day 1**
 
+![](/images/uploads/day1_1st-pic.jpg)
+
 With all the excitement to explore this new terrain I started my day at 6 am. Not even 5 min in the ride and it poured heavily. Eventually could restart the ride by 6.45 drenched in rains.
 
 After an hour with heavy rains converted to drizzle and the forest around, got me in the groove of riding. Here the sun rises early by 5.15 am the darkness goes away which also means the heat starts hitting you sooner than you expect. Riding alongside of high currents teesta river can be very big distraction. Anyways I kept riding through the smaller hills, heat , rains and eventually reached a place known as singtam, which is gateway to many hilltops. Until singtam one is at rolling route with some smaller hills around areas of sevoke , rangpo. From singtam it’s a standard uphill ride to Gangtok (at-least that’s what I thought). The constant climbs of gradient 6-8% continues till Ranipool.After this point it’s just 12km of climb to Gangtok 
