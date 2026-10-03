@@ -19,6 +19,8 @@ There is an innate, quiet kindness woven into the fabric of this state.Long befo
 
 ![](/images/uploads/img_0384.heic)
 
+**Day 1- Siliguri to Gangtok**
+
 My first morning began with a quick reminder of how unpredictable the mountains can be. Filled with excitement to explore this new terrain, I rolled out at **6:00 AM**. Not even five minutes into the pedal strokes, the sky opened up and it poured heavily. I had no choice but to wait it out. By **6:45 AM**, I restarted—already completely drenched.
 
 An hour later, the heavy downpour subsided into a steady drizzle. The sun here rises early. By **5:15 AM**, the darkness is completely gone, which brings a hidden challenge: the mountain heat starts hitting you much sooner than you expect.
@@ -27,59 +29,71 @@ As I pushed forward, the **Teesta River** roared alongside the road. Its high,
 
 ![](/images/uploads/img_0354.heic)
 
-Maintaining a steady rhythm through the smaller hills, eventually, I rolled into **Singtam**, a bustling town known as the gateway to many of Sikkim's famous hill stations. Up until Singtam, the route from areas like **Sevoke** and **Rangpo** is mostly rolling terrain with manageable, smaller hills. From Singtam onwards, the map indicated a standard uphill ride to **Gangtok**. At least, that is what I thought.
+Maintaining a steady rhythm through the smaller hills, eventually, I rolled into **Singtam**, a bustling town known as the gateway to many of Sikkim's famous hill stations. Up until Singtam, the route from areas like **Sevoke** and **Rangpo** is mostly rolling terrain with manageable, smaller hills. From Singtam onwards, the map indicated a standard uphill ride to **Gangtok**. At least, that is what I thought. The reality was a rude awakening. A relentless, constant climb with gradients hovering between **6% to 8%**stretched all the way to **Ranipool**. And once you clear Ranipool? You are left facing the final, brutal **12-kilometer** ladder straight up to Gangtok. 
 
 ![](/images/uploads/img_0373.heic)
 
-The reality was a rude awakening. A relentless, constant climb with gradients hovering between **6% to 8%**stretched all the way to **Ranipool**. And once you clear Ranipool? You are left facing the final, brutal **12-kilometer** ladder straight up to Gangtok.
-
 ![](/images/uploads/img_0382.heic)
 
- Now something different was going to happen. The gradient jumped to 12-16%. After the very first turn on this route , I got down and realised this going to be very very difficult. Lot of thoughts was going if I can climb this. I struggled managed by riding,walking and slowly moving ahead. Lot of Forces stations in Sikkim and one of the lad told me its impossible for me to ride at this climb. I took it as challenge(apan ka ego hurt kiya ladke ne) and continued next 3km in lowest gears non stop and later realising not to take things on ego 😀. 
+Just as I thought I had a handle on the climb, the mountains decided to show their true colors. The gradient suddenly spiked, jumping to a brutal **12% to 16%**.
 
-Take break eat something.
+Sikkim has a heavy military presence, and as I dragged myself up, a young lad stationed at one of the forces checkposts looked at me and casually remarked that it was impossible to ride up a climb like this.
 
-Eventually made to Gangtok by 7.10.
+That was all it took. My ego was officially bruised (*apan ka ego hurt kiya ladke ne!*). I clicked into my absolute lowest gear, gritted my teeth, and hammered out the next **3 kilometers nonstop**. Of course, once the adrenaline faded, my tired body quickly reminded me why you should never let your ego dictate your pacing on a Himalayan climb. Hence, pulled over, found a spot to rest, and ate something to restore my depleted energy.
+
+With fuel back in the tank and pedal stroke by pedal stroke by **7:10 PM**, exhausted but triumphant, I finally made it into **Gangtok**.
 
 ![](/images/uploads/img_0392.heic)
 
-Sikkim is such a wonderful state. No litter ,no honking, such cultured folks and great civic sense. That’s how all state and cities should be.
+**Day 2- Gangtok to Singtam Via Dikchu**
 
-Gangtok is just 1600-1700m from sealevel. However, the total elevation which I had rode by now was 2500m in just 110km.
-
-Day 2-
+By **5:30 AM**, I was up feeling fresh. With yesterday's climbing lessons fresh in my mind, I tackled the steep ascents out of ***Gangtok*** with much better rhythm, even with the full weight of my luggage loaded onto the bike. After grinding out a solid 7 kilometers, I rewarded myself with a light breakfast and pushed forward.
 
 ![](/images/uploads/day-2.jpg)
 
-After yesterday’s reality check I had realisation that this not going to be easy tour. Today’s plan was do go forward above Gangtok and do a loop to singtam.
+The morning ride was pure cycling bliss: smooth tarmac, breathtaking Himalayan vistas, and a dramatic rollercoaster of very steep ascents and descents. By the afternoon, I had clocked a satisfying 55-odd kilometers and pulled over for a hearty lunch.
 
 ![](/images/uploads/img_0397.heic)
 
-At 5.30 am I was fresh and now rode the climbs pretty well with all my luggage on bike. Had a good breakfast after 7km and continued ahead. The ride was smooth , scenic and with very steep ascents and descents. By afternoon covered some 55 odd kms and stopped for lunch.
+
 
 ![](/images/uploads/img_0440.heic)
 
 ![](/images/uploads/img_0442.heic)
 
-Now from this point the next milestone was just some 50 odd kms but would be going downhill so took a good 1 hr rest. This is where things went wrong. The road I had taken was via a place called dekchu, a landslide prone area. First 10-12km had broken roads but was still okay to manage on cycle. Locals informed me that 15 km of road is really bad. A truck driver stopped to ask me if I want lift till singtam. I said ‘NO’ and regretted after 15min. This bad road was no road it was rocky patches everywhere. I tried riding as much as possible along with walking. Some people admired , motivated me and some offered help. One thing which has worked out for me over the years of cycling is I know when to stop and when to push. 
+Looking at the map, my next milestone—***Singtam***—was only about 50 kilometers away. Better yet, the profile showed it was almost entirely downhill. Feeling confident, I stretched out and took a luxurious one-hour rest.
+
+That rest was the exact moment things went entirely wrong. 
 
 ![](/images/uploads/img_0452.heic)
 
+The first 10 to 12 kilometers out of lunch were broken and rough, but nothing which my gravel bicycle couldn't handle. But then the pavement vanished completely. Locals passing by warned me that the next 15 kilometers were genuinely terrible. Moments later, a truck driver slowed down, leaned out of his cabin, and offered to give me a lift all the way to *Singtam*.
+
+Filled with touring pride, I confidently said, **"NO."**
+
+I regretted that decision exactly 15 minutes later.
+
 ![](/images/uploads/da2-collage.jpg)
 
-By 6.15 it got really dark but I had crossed this rocky patch by now  and came on good road towards singtam. One gentleman stopped motorbike and argued with me how can I cycle in Sikkim with only one light. Such is care of people here for you.
+I entered an area which forced me to become a walker pushing his loaded bicycle over boulders, and trying to ride again.  Passing locals cheered me on, drivers yelled words of motivation, and multiple people stopped to offer help. Over my years of cycling, I’ve learned one golden rule: *you have to know when to push, and you have to know when to stop.* I kept my head down and kept moving.
+
+By **6:15 PM**, the light was gone and the peaceful night with cool breeze was up also the rocky patch was over.nJust another 15km to *Singtam*.
 
 ![](/images/uploads/last-pic.jpg)
 
-Disclaimer: I really carry single piece light but really stronger than 2-3 bicycle lights together. This is to reduce luggage to carry.
+As I was cruising in the dark, a gentleman on a motorbike suddenly pulled up alongside me and started furiously arguing with me. Why? Because I was cycling in the pitch-black mountains of Sikkim with only a single headlight. He was genuinely concern for my safety.
 
-By 7.30 pm  I was at singtam, found a place for night stay.
+*Note to self:* My single light is actually a high-lumen powerhouse, stronger than two or three standard bicycle lights combined—a deliberate choice to keep my luggage weight down. But it was incredibly moving to realize that a complete stranger cared enough to stop and scold me out of pure protection. That is just how the people here are..
 
-Singtam is a small town which closes by 8pm. I had to eat food and one person who just shut his shop and was about to leave , opened the shop to provide me food. Later he gave me sweets and did not charge for anything.
+By **7:30 PM**, I finally rolled into ***Singtam*** and secured a room for the night.
 
-Called it a day after the great dinner.
+*Singtam* is a quiet mountain town, and by **8:00 PM**, the entire place shuts down. I found a small eatery just as the owner was locking his doors. Seeing me drenched in sweat and exhausted, he didn't hesitate. He reopened his shop and served me a hot, comforting dinner.
 
-Day 3 -Singtam to Ravangla 
+To top off his incredible hospitality, he wrapped up some sweets for me at the end of the meal and absolutely refused to take a single rupee for the food.
+
+Completely overwhelmed by the unmatched kindness of the locals, I finally called it a day..
+
+**Day 3 -Singtam to Ravangla** 
 
 ![](/images/uploads/img_0459.heic)
 
