@@ -11,7 +11,7 @@ Sikkim has been a wonderful and literate state. It's a epitome of how civilised 
 
 There is an innate, quiet kindness woven into the fabric of this state.Long before the landscapes take your breath away, the warmth of the people steals your heart.
 
-![](/images/uploads/untitled-2.jpg)
+![](/images/uploads/people.jpg)
 
 ![](/images/uploads/food.jpg)
 
