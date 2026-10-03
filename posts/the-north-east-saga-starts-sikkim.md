@@ -97,11 +97,21 @@ Completely overwhelmed by the unmatched kindness of the locals, I finally called
 
 ![](/images/uploads/img_0459.heic)
 
-Distance today was not much and hence started late. Eventually with some hurdles of rain , a wrong turns here and there , I came on right road towards Ravangla (small hill station in south Sikkim) . Everything was perfect about today , beautiful roads, terrain , climbs, waterfalls all across, good food and lots of birds. Though the distance was short however the elevation was 2300m. 
+After the grueling rocky patches of Dikchu, my legs were grateful for a late start. Today’s destination wasn't too far away on the map, so I took my time rolling out of Singtam.
+
+The mountains, of course, had to throw in a few standard initiation rituals. I ran into a couple of heavy downpours that forced me to take shelter, and I managed to take a wrong turn here and there, adding a few accidental bonus miles to the day. But eventually, I found my rhythm on the correct road heading toward **Ravangla**, a stunning, serene hill station nestled in **South Sikkim**.
+
+Once I was on the right track, the day transformed into absolute perfection.
+
+If you were to draw up a dream route for a cycle tourist, this would be it. The roads were beautifully paved, winding through an incredibly lush terrain. Because Sikkim’s landscape is so vertical, spectacular waterfalls crashed down the mountainsides all across the route, providing a dramatic, cooling soundtrack to my effort. 
 
 ![](/images/uploads/day-3-1.jpg)
 
-I reached the place in afternoon itself , liked  it so much that decided to stay there for a night.
+The air was filled with the vibrant chirping of exotic birds, the food at the local wayside shacks was brilliant, and the rhythm of the pedals felt effortless.
+
+Don't let the short distance fool you, though. In Sikkim, "short distance" never means easy. By the time I reached the town, my bike computer showed that I had gritted my teeth through a massive **2,300 meters of pure elevation gain**.
+
+Because of the shorter route, I rolled into Ravangla early in the afternoon. The moment I arrived, the vibe of this quiet hill station completely captivated me. The mist rolling over the hills and the peaceful atmosphere were too good to rush through. Instead of pushing further, I listened to the traveler inside me, checked into a local stay, and decided to call it a day right there to enjoy the evening.
 
 ![](/images/uploads/img_0504.heic)
 
@@ -111,17 +121,35 @@ Day 4- Ravangla to Darjeeling 
 
 ![](/images/uploads/img_0518.heic)
 
-Today was the day when the bicycle brake gave up and pushed me towards mixing lot downhill walking. Started the day with little more climbs but amazing views all around.
+The mountains have a funny way of checking your confidence just when you think you’ve mastered them. Today was the day **Sikkim** decided to remind me who is truly in charge, pushing both my machine and my spirit to their absolute limits.
+
+The morning started beautifully out of **Ravangla**, kicking off with a few more steep climbs. The reward for the effort was spectacular—crisp air and expansive, jaw-dropping mountain views all around. My plan for the day was ambitious: ride down to **Namchi**, cross over to **Jorethang**, and then tackle the final frontier up to **Darjeeling**.
+
+In this region, geography doesn't do flat. Every single town is built on an extreme axis of steepness—you are either grinding uphill in your lowest gear or white-knuckling your way down a wall of tarmac.
+
+It was on one of these unrelenting descents that disaster struck: **my bicycle brakes completely gave up**.
 
 ![](/images/uploads/img_0545.heic)
 
-I had planned to go to namchi and then to Darjeeling via Jorethang. 
+With loaded bags and no stopping power, riding down became a death wish. I had no choice but to unclip and face a grueling, slow ordeal of mixing riding on the flat bits with walking my bike down the steepest drops. Somehow, through sheer patience and a lot of shoe leather, I managed to coast into the hot valley town of **Jorethang**.
 
-All beautiful towns with extreme steepness either uphill or downhill no section was flat today. I managed to reach Jorethang and then started towards Darjeeling. This section I will never try again on a cycle.
+From Jorethang, I crossed the border and pointed my front wheel toward **Darjeeling**.
+
+Let me be absolutely clear: **I will never, ever attempt this specific section on a bicycle again.**
 
 ![](/images/uploads/untitled.jpg)
 
-There were so many moments where I just sat in silence appreciating the view and also realising the mistake off taking this road.  Somehow with all the struggles of riding I ended up the ride 8km before Darjeeling in at a wonderful homestay. 
+The sheer verticality of the road was terrifying. There were multiple moments where the physical exhaustion and the mental stress of the broken brakes caught up to me. I would just pull over to the side of the road and sit in total silence. In those quiet moments, my mind was a mix of awe—completely appreciating the sweeping, majestic views of the valleys—and pure regret, realizing the massive mistake I had made by choosing this route.
+
+Mountains make you humble. By the end of that stretch, the confidence I had built up over years of cycling had completely crumbled. I was spent, broken, and stranded **8 kilometers short of Darjeeling** as the light began to fade.
+
+But just when the mountains break you, they show you their magic.
+
+I stumbled upon a wonderful, cozy homestay right there on the hills. The family didn’t just welcome me in as a tired cyclist; they completely adopted me for the evening. Within an hour of rolling in completely defeated, I found myself sitting warmly with the family, invited to celebrate a local birthday party with them.
+
+Eating cake, sharing stories, and laughing with beautiful strangers, the brutal climbs and broken brakes faded into the background. It was the perfect reminder of why I started this journey in the first place.
+
+
 
 ![](/images/uploads/untitled-2.jpg)
 
