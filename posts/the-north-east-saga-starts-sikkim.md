@@ -7,7 +7,11 @@ thumbnail: /images/uploads/img_0356.heic
 ---
 **Day 1**
 
-Sikkim has been a wonderful and literate state. Its a epitome of how civilized a society can be when it comes down to cleanliness and management.
+Sikkim has been a wonderful and literate state. It's a epitome of how civilised a society can be when it comes down to cleanliness and management.
+
+In all my bloga and rides , I have talked about how difficult or easy the ride has been and mentioning about the place a little bit. However here before i talk about ride route, climbs etc, its important to appreciate the state of sikkim for the way it is. The people and their helpful nature. I have been riding for good amount of years and have always met people while riding , who I had remember for long. Sikkim was no diffeent but with more impact.
+
+Below are the images of some people who I had captured.
 
 ![](/images/uploads/day1_1st-pic.jpg)
 
