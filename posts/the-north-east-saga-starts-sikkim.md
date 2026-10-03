@@ -9,11 +9,15 @@ thumbnail: /images/uploads/img_0356.heic
 
 ![](/images/uploads/day1_1st-pic.jpg)
 
+![](/images/uploads/img_0384.heic)
+
 With all the excitement to explore this new terrain I started my day at 6 am. Not even 5 min in the ride and it poured heavily. Eventually could restart the ride by 6.45 drenched in rains.
 
-After an hour with heavy rains converted to drizzle and the forest around, got me in the groove of riding. Here the sun rises early by 5.15 am the darkness goes away which also means the heat starts hitting you sooner than you expect. Riding alongside of high currents teesta river can be very big distraction. Anyways I kept riding through the smaller hills, heat , rains and eventually reached a place known as singtam, which is gateway to many hilltops. Until singtam one is at rolling route with some smaller hills around areas of sevoke , rangpo. From singtam it’s a standard uphill ride to Gangtok (at-least that’s what I thought). The constant climbs of gradient 6-8% continues till Ranipool.After this point it’s just 12km of climb to Gangtok 
+After an hour with heavy rains converted to drizzle and the forest around, got me in the groove of riding. Here the sun rises early by 5.15 am the darkness goes away which also means the heat starts hitting you sooner than you expect. Riding alongside of high currents teesta river can be very big distraction. Anyways I kept riding through the smaller hills, heat , rains and eventually reached a place known as singtam, which is gateway to many hilltops. Until singtam one is at rolling route with some smaller hills around areas of sevoke , rangpo. From singtam it’s a standard uphill ride to Gangtok (at-least that’s what I thought). The constant climbs of gradient 6-8% continues till Ranipool.After this point it’s just 12km of climb to Gangtok
 
-Now something different was going to happen. The gradient jumped to 12-16%. After the very first turn on this route , I got down and realised this going to be very very difficult. Lot of thoughts was going if I can climb this. I struggled managed by riding,walking and slowly moving ahead. Lot of Forces stations in Sikkim and one of the lad told me its impossible for me to ride at this climb. I took it as challenge(apan ka ego hurt kiya ladke ne) and continued next 3km in lowest gears non stop and later realising not to take things on ego 😀. 
+![](/images/uploads/img_0382.heic)
+
+ Now something different was going to happen. The gradient jumped to 12-16%. After the very first turn on this route , I got down and realised this going to be very very difficult. Lot of thoughts was going if I can climb this. I struggled managed by riding,walking and slowly moving ahead. Lot of Forces stations in Sikkim and one of the lad told me its impossible for me to ride at this climb. I took it as challenge(apan ka ego hurt kiya ladke ne) and continued next 3km in lowest gears non stop and later realising not to take things on ego 😀. 
 
 Take break eat something.
 
