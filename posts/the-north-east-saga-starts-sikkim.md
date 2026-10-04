@@ -115,7 +115,7 @@ The moment I arrived, the vibe of this quiet hill station completely captivated 
 
 The morning started beautifully out of **Ravangla**, kicking off with a few more steep climbs. If not for the mist  i could have had a clear view to **kanchenjunga.** My plan for the day was ambitious: ride down to **Namchi**, cross over to **Jorethang**, and then tackle the final frontier up to **Darjeeling**.
 
-Today I found myself either grinding uphill or navigating theough downhills. There was just no Flat sections.
+Today I found myself either grinding uphill or navigating downhills. There was just no Flat sections.
 
 It was on one of these unrelenting descents that : **my bicycle brakes completely gave up**.
 
