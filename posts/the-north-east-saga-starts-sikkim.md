@@ -135,10 +135,6 @@ Luckily, I stumbled upon a wonderful, cozy homestay right there on the hills alo
 
 Eating cake, sharing stories, and laughing with beautiful strangers - All's well that ends well !
 
-![](/images/uploads/untitled-2.jpg)
-
-
-
 **Day 5 - Darjeeling to Siliguri** 
 
 ![](/images/uploads/img_0561.heic)
