@@ -121,9 +121,7 @@ It was on one of these unrelenting descents that : **my bicycle brakes complete
 
 ![](/images/uploads/img_0545.heic)
 
-Left with no choice I had to mix cycling and walking on extreme downhills until the town of **Jorethang**.
-
-From Jorethang, I crossed the border and pointed my front wheel toward **Darjeeling**.
+Left with no choice I had to mix cycling and walking on extreme downhills until the town of **Jorethang**. From Jorethang, I crossed the border and pointed my front wheel toward **Darjeeling**.
 
 Let me be absolutely clear: **I will never, ever attempt this specific section on a bicycle again.**
 
@@ -165,14 +163,10 @@ The challenge was not yet over, until now i was at higher elevation than darjeel
 
 ![](/images/uploads/untitled-3.jpg)
 
-Had no other option than calling the ride off.
+I had no choice but to **call the ride off**. Luckily stumbled upon a garage and got my break cables examined. However, we could not fix the bike.Accepting that my touring wheels were officially done for the day, I called my friend **Ayon** to come pick me u
 
-Though there was a garage nearby but they could not fix, hence decided to call my friend Ayon to pick me up in the mean time spent time at garage by admiring such young boys coming far from house to earn livelihood with so much hard work. 22 year old boys living by self managing their garage , cooking , collecting drinking water all by self in that small garage itself.
+While I waited, I sat in that tiny garage and just watched. The shop was run by a couple of **22-year-old boys** who had moved far away from their homes**(Islampur)** to earn a livelihood. I found myself deeply admiring their sheer grit and hard work. At an age where most kids are still finding their footing, these young men were completely self-reliant—managing a busy garage, cooking their own meals, and hauling their own drinking water, all within the four walls of that cramped workshop.
 
-This tour was comparatively tough than any of my previous tours. All the tours o have met people who have been good to me and also had good conversations around their life, their state politics challenges etc. religion caste impact. 
+**This tour was significantly tougher than any of my previous rides**. The conversations with locals along the road—diving deep into their daily lives, understanding their state politics, their structural challenges, and the complex impacts of religion and caste. These raw, honest chats provide a reality check than what you see in televisions, books or so called Data driven analysis.
 
-I like this conversations because it gives me reality which can be very different compared to beautiful terrains of place.
-
-Anyways Sikkim will hit you differently, the culture the people , the care for their state , importance of cleanliness and not being biased towards people in the name of caste religion (not great examples across country).
-
-All leads to one source which is a good education.
+Sikkim boast beautiful mountains; it boasts a beautiful culture. The deep-rooted civic pride, the non-negotiable importance given to cleanliness, and the collective care they have for their state is unmatched.
