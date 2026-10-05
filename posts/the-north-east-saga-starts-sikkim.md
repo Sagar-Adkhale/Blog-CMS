@@ -7,7 +7,7 @@ thumbnail: /images/uploads/img_0356.heic
 ---
 **Few Words for Sikkim**
 
-It is incredibly refreshing to ride through a region that takes its civic duties so seriously. Beyond the beautiful landscapes , the cleanliness and the hospitality the sheer charater of the state will leave a lasting impression.
+It is incredibly refreshing to ride through a region that takes its civic duties so seriously. Beyond the beautiful landscapes , the cleanliness and the hospitality the sheer character of the state will leave a lasting impression.
 
 I have been riding for many years, and if there is one thing cycling teaches you, it is that the geography of a place is only half the story. The other half is always written by the people you meet along the way.
 
